@@ -1,0 +1,22 @@
+Dear Professor Drummond,
+
+I have been working on the project and I have come across several questions. 
+
+First, I have calculated the composition and some other variables of amino acids of the P-domain in multiple sequences. Now I don't know how to carry out the further analysis and present the results.  
+
+Second, I want to ask the standard when we classify the amino acids according to their hydrophobicity because there are so many standards when I search. Now I use the standard of the color scheme in Jalview which is from a paper in 1982. When I look at the table, I also feel confused. According to the table, Cys(C) which is known as hydrophilic amino acid is more hydrophobic than Met(M) and Ala(A). Is that standard reliable?
+
+Third, Jamie used BLAST to find the nucleotide and amino acid sequence of Pab1 in O.parapolymorpha. When I compare its P-domain with the sequence you sent to me in the fasta file of multiple sequence, I found there are three different amino acids in 129 amino acids. 
+from BLAST: 
+MQQAAAQGGMGQFVAPMFYGQNPGFLPPGARGAPFAAPGQQMMMQQGMPRPGQGVPVSPGQFRVGPNGQPVPMYMQP
+VFNEYPQNGRLPQQRYYQGGRPGQQPPQAGPRGKREDGAVPSLAQVLPQFPP
+from fasta file:
+MQQAAAQGGMGQFVAPMFYGQNPGFLPPGARGAPFAAPGQQMMMQQGIPRPGQGVPVSPGQFRVGPNGQPVPMYMQP
+VFNEYPQNGRMPQQRYYQGGRPGQQPPQAGPRGKSEDGAVPSLAQVLPQFPP
+
+Although it didn't affect the mutation, I still want to ask which one I should use for sequence analysis and is it common to see such differences in one species?
+
+Have a good day!
+
+Best,
+Feng
