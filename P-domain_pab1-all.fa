@@ -1,0 +1,2208 @@
+>L.pealeii/381-448 Loligo pealeii from http://ivory.idyll.org/blog/2014-loligo-transcriptome-data.html NODE_13215955_length_1352_cov_3.578402
+-------PMM-------------------------------------------------PP--SN--NN---
+-YFVPAA----Q----------AY----PPPHLP-PQLHVGGVP--R-------W-----------------
+------------------------------------------------------------------------
+----------------------------Q-------------------------------------------
+V------------------------------LHQVQNAV---------------------------------
+-----GY----NNNRVP--------------------------------------------------QVQVR
+QQ-RN------------VRNT----RP
+>V.pacos/325-490 ENSVPAG00000003865 ENSVPAP00000003589 IPR003954,IPR002004 IPR000504 EOG7RV9FP VPACO
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>H.saltator/316-479 HSAL19837-PA IPR000504,IPR002004 EOG7RC9PC HSALT
+M------QQM---G---QIF---------------------------------------QP--GN--AG--S
+-YFVPTL----PQP---QR---FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFAMQ-------------------------------
+------APFR-----A--APRAP-----A-AQAGAMR----------------NTLS-------ARP-----
+ITG--------QQAVG---------------GANMQSRS-M---AGPAVGVS--P----QS--RPS------
+-----NYKYT-ANMRNP-----PQ-------------------TMPMPAQ-----APV-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>P.antarctica/426-475 jgi|Psean1_1|80516|PANT_8c00076
+L------QQQ---A---------------------------------------------AA--QG--MG---
+-YPGPGM---------------YY------------------------------------------------
+------------------------------------------------------------------------
+--------------------PQP-------------------------------------------------
+--------------------------------GAFPGQP---------------------------------
+-----------GGMGDE-------------------------------------------------------
+---APGALT----AAA-LAKA----SP
+>L.major/404-495 tr|E9AFX7|E9AFX7_LEIMA Polyadenylate-binding protein 1 OS=Leishmania major GN=PABP1 PE=4 SV=1
+M------RQM---H---------------------------------------------QP--MP-------
+--FVGSQ----GRPMRGRG---------GRQQLGGRAQGHP-MP--M----------------------PSP
+QQ------------PQ--------------------------------------------------------
+------------------APAQP-----Q-GFA-TPS-----------------------------------
+AVG----------------------------FVQATPKH------------------------SPG------
+-----------DVPETP-----PL---------------------------------P--------------
+----P--IT----PQE-LESM----SP
+>H.diversicolor/392-563 tr|G9K385|G9K385_HALDV Putative polyadenylate-binding protein 1 (Fragment) OS=Haliotis diversicolor GN=PABP1 PE=2 SV=1
+Q---QQTAQF---N---QMF---------------------------------------QP--TG--AG---
+-YFVPTM----P-----QAQRGFF----APTQM--PQV-RA-SP--R-------W--------------QTQ
+VR------------PTQP----------------TAGFQGM--------------------PA---------
+-------SGQMRTTAP--RAGQP-----A-VRA-GVN---------------------------ARP-----
+ITG--------QSGAVPTNPNARMAAM----GPGMGNRP-T-------AAAPAMPS---AP--NRQ------
+-----GFKFN-TQMRNP-----PT-------------------AVPQSQVMQQ----P-------QQSVVIP
+GQ-EP--LT----ASM-LAAA------
+>F.catus/319-484 ENSFCAG00000001874 ENSFCAP00000001734 M3VXF8 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP FCATU
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>D.discoideum/384-501 PAP1A_DICDI/1-565 sp|Q54BM2|PAP1A_DICDI/1-565 Polyadenylate-binding protein 1-A OS=Dictyostelium discoideum GN=pabpc1A PE=1 SV=1
+-------QQM-------------------------------------------------PP--TY-GSG--P
+VFFTPAP----VNPQV------VY-----------QQM----MP--R----PRNW-------------NGQP
+VG------------VPQ------------------GQYANM-------------------------------
+-------NY---------ARGQP-----R-QNG-------------------------------PRQ-----
+NGG--------Q-------------------PRQNGPRPDV-------------------------------
+-----------SGAQPI-----PV--------------------QQQTTLDVA----Q-------TQQAASS
+AE-SA--LN----LQS-IINL----PS
+>P.bivittatus/320-485 gi|602675302|ref|XP_007443132.1| PREDICTED: polyadenylate-binding protein 1 isoform X1 [Python bivittatus]
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PTSQI--TQL-RP-SP--R-------W--------A-----AQG
+AR------------PHPA-------------------FQNM--------------------PG---------
+-------AIR-----P--TAPRP-----P--FS-TMR-----------PAS---SQV-------TRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNTQPQVAM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>E.europaeus/321-486 ENSEEUG00000002701 ENSEEUP00000002477 IPR003954,IPR002004 IPR000504 EOG7RV9FP EEURO
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>M.putorius/325-490 M.putorius_furo ENSMPUG00000015163 ENSMPUP00000015054 M3YUP4 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP MPUTO
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>C.griseus/325-490 gene31170 340224 IPR003954,IPR002004 IPR000504 EOG7RV9FP CGRIS
+-------QAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>G.gorilla/325-490 ENSGGOG00000006785 ENSGGOP00000006641 G3QV77 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP GGORI
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>C.porcellus/326-491 ENSCPOG00000012917 ENSCPOP00000011629 H0VMJ6 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP CPORC
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>O.lucimarinus/416-505 gi|145349140|ref|XP_001418998.1| predicted protein [Ostreococcus lucimarinus CCE9901] >gi|144579228|gb|ABO97291.1| predicted protein [Ostreococcus lucimarinus CCE9901]
+M-------PG---G--MAPY--------------------------------------MPP--PG-VPG---
+----APM---------------YY-----------GQP----PP----------------------------
+-----------------------------------AGHAGQ-------------------------------
+------------------GVPGA-----Q-RGR-GGR-----------------------------------
+-------------------------------GGPAGGRG------------------------QRQ------
+-----NMRYN-AAAAMP------------------------------------------------MPPMPAE
+AA-NPMAIL----ASQ-LSAA----AP
+>D.pulex/394-494 BDE_estExt_fgenesh1_pg.C_380037 IPR000504,IPR002004 EOG7RC9PC DPULE
+M------QQM---G---QMF---------------------------------------QP--GG--PG---
+-YFMPAP-------IQPQR---FY----TPAQM--AQF-RA-TP--R-------W-----------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+-------------------------------SAQPQPRP---------------------------------
+-----GFKFT-PAMRNP-----PS-----------------QGSLPSNAMGGSAAGGM-------QQALVVQ
+GQ-EP--LT----ASM-LASA----AP
+>N.castellii/416-491 NCAS0A03680/1-575
+Y------QQA---TAAAAAA---------------------------------------AA--GI--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+--------------------------------QQMNGVP---------------PQ----------------
+-----QFRNG-PGYGMP-----PQ------------------------------------------GGFPRN
+GV---------------PNQF----YQ
+>S.mikatae/419-502 Smik_5.337/1-577
+Y------QQA---TAAAAAA---------------------------------------AA--GM--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+-----------QQ------------------MNPMGGMP--------------------KN--GMP------
+-----------PQFRNG-----PV------------------------------------------YGVPPQ
+GG-FP--RN----AND-NNQF----YQ
+>S.arboricola/419-502 S.arboricola_strain_H-6 J8LP97 J8LP97_SACAR J8LP97 Pab1p IPR000504,IPR002004 EOG706125 SACAR
+Y------QQA---T-AAAAAAA-----------------------------------AGMP--GQ-------
+-FM--PP---------------MF-Y---------GVM----PP-------------------RG----V--
+--------------PFN------GPN----------------------------------------------
+----PQQINPM--GG-MPKNGMP-------------------------------------------------
+---------------------------------------PQFGNAPVY-----GVP----------------
+------------------------------------------------------------------------
+PQ-GG--FP----RNA-NDNN--QFYQ
+>T.blattae/424-498 TBLA0F03780/1-577
+Y------QQA---T--AAAA--------------------------------------AAA--AG-IPG---
+-QFMPPM---------------FY-----------GVV----PP--R-------------------------
+---------------------------------------GM-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+--------------------------------QQLGGMP---------------PQ----------------
+-----QFRNG-PAYGMP-----PP-----------------------------------------------Q
+GG-FP--RN--------DNQF----YQ
+>O.aries/331-496 gene25040 1315788 IPR003954,IPR002004 IPR000504 EOG7RV9FP OARIE
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>S.bayanus/419-502 Suva_5.299/1-577
+Y------QQA---TAAAAAA---------------------------------------AA--GM--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+-----------QQ------------------MNPMGGMP--------------------KN--GMP------
+-----------PQFRNG-----PV------------------------------------------YGVPPQ
+GG-FP--RN----AND-NNQF----YQ
+>S.cerevisiae/419-502 YER165W/1-577
+Y------QQA---TAAAAAA---------------------------------------AA--GM--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+-----------QQ------------------MNPMGGMP--------------------KN--GMP------
+-----------PQFRNG-----PV------------------------------------------YGVPPQ
+GG-FP--RN----AND-NNQF----YQ
+>S.kudriavzevii/419-502 Skud_5.304 [REAL/YGOBHMM; YGOB:Anc_8.229; HMM:0; SCER:YER165W; SYNT:YER164W/4/YDR093W; LEN:1734; LDA:-1e+100; Ka/Ks:1e+100; OHNO:]
+Y------QQA---TAAAAAA---------------------------------------AA--GM--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+-----------QQ------------------MNPMGGMP--------------------KN--GMP------
+-----------PQFRNG-----PV------------------------------------------YGVPPQ
+GG-FP--RN----AND-NNQF----YQ
+>O.parapolymorpha/428-556 jgi|Hanpo2|16196|fgenesh1_kg.3_#_227_#_isotig02477
+M------QQA---A---------------------------------------------AQ--GG--MG---
+-QFVAPM---------------FY----GQNP---GFL----PP---------------------------G
+AR------------GAP--------------------FAA---------------------PGQ--------
+----QMMMQQ--------GIPRP-------GQGVPVS-----------PGQ-------------FRV-----
+-------------------------------GPNGQPVP-----MYMQPVFNEYPQ---NG--RMP------
+-----QQRYY-QGGRPG-----QQ---------------------PPQAG---------------PRGKSED
+GA-VP--SL----AQV-LPQF----PP
+>M.gallopavo/332-498 ENSMGAG00000012239 ENSMGAP00000012874 G1NI21 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP MGALL
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AIPQ--TQN
+RA------------AYY-----------PTNQL--AQLARP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR---------PPFSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR------PAAAATAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-TQPQVAMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>C.glabrata/416-500 CAGL0L11792g/1-579
+F------QQA---SAAAAAA---------------------------------------AA--AG-MPG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-----Q-------------------------------------------
+-------------------------------MANMGAMP---------------------KNGMPP------
+-----------HQFRNG-----PV------------------------------------------YGVPPQ
+GG-FA--RN----GPA-ANQF----YQ
+>T.phaffii/431-506 TPHA0B03420/1-579
+Y------QQA---TAAAAAA---------------------------------------AA--GM--PG---
+-QFMQPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PFN--------GPNSP-------------------------------------------------
+----------------------------------MGAVP--------------------RQ-----------
+-----QFRNG-PVYGVP-----PQ-------------------------------GAP---------QGNFP
+GN-DQ--LY-----------------Q
+>E.cymbalariae/419-501 Ecym_5562/1-580
+F------QHA---N--AAAA--------------------------------------AAV--AG-LPG---
+-QFIPPP----M----------YY-----------GGI----PP--R----------------------VPF
+QG------------PNPQ-------------------MTGM-------------------------------
+---------------PKNGAIPP-----Q-QFG---------------------------------------
+-----------------------------------RPGP-M-------------------------------
+-----YGGFG-----------------------------------------------P-------QGQFPRN
+GQ-QQ--------------QF----YQ
+>V.polyspora/432-509 Kpol_1032.49/1-580
+Y------QQA---T--AAAA--------------------------------------AAA--AG-IPG---
+-QFMQPM---------------FY-----------GVM----PP--R----GVPF---------------NG
+AN------------PQQ--------------------FAGM-------------------------------
+----------------------P-----P-------------------------------------------
+-------------------------------QQFRNGAPVY---AG-----------------MPP------
+-----------QGAGAP-----PR------------------------------------------------
+-N-DQ--FF----------------AQ
+>K.africana/421-501 KAFR0B02500/1-582
+Y------QQA---TAAAAAA---------------------------------------AA--GI--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+--------------------------------QQMNGVP---------------PQ----------------
+-----QFRNG-PMYGMP-----PQ-------------------------------GAP-------------Q
+GG-FP--RN----GNN-ANQF----YQ
+>H.melpomene/366-511 HMEL013334-PA IPR003954,IPR002004 IPR000504 EOG7RC9PC HMELP
+M------QQM---G---QIF---------------------------------------QP--GS--AG--G
+-YFVPTI----P---PAQR---YY----GPAQM--TQI-RP-AP--R-------W------------TAQPS
+VR------------PSA--------------QSAASAYPNM-------------------------------
+-----QPQFR-----P--TPRGP-----T-------------------QTTLRTSLG-------ARP-----
+ITG--------QQGVAA--------------ATSIRAPL--------------------VTSGRPA------
+-----GYKYT-ANMRNP-----PA---------------------------------P-------QPAVHIQ
+GQ-EP--LT----ATM-LAAA----PL
+>N.vectensis/395-506 NEMVEDRAFT_v1g230864 NEMVEDRAFT_v1g230864-PA A7SSV8 Predicted protein IPR000504,IPR002004 EOG7RV9FP NVECT
+M-----------------------------------------------------------------------
+---------------------------------------------------------------------HQG
+QR------------PFF------TP------QM--PQV-RP-------------------------RW----
+----GMPPQ-----------------------------------------------QQQQQMRPTGVQNMG-
+-----------------------------GQAGMPQGGPAGMPRMPVQQARMGGVPPQRQP-----------
+------YKFS-QTVRNP----------PP-----------------AGQMPEGGQGIP-------------G
+GQ-EP--LN----PSV-LAAA----TP
+>A.gossypii/419-501 A.gossypii_strain_ATCC_10895 PABP PABP_ASHGO Q74ZS6 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 ASHGO
+F------QHA---N-AAAAAAV-----------------------------------AGLP--GQ-------
+-FMP-PP---------------MY-Y---------GGI----PP-------------------RV-------
+--------------PFQ------GPNP------QMAGMPKN------------------------GAM----
+----PPQQFGR-----------P-------------------------------------------------
+--------------------------------------GPMYGGFAPQ-----GQF---PRNGQQQ------
+------------------------------------------------------------------------
+-----------------------QFYQ
+>N.diarenensis/421-498 NDAI0C06100/1-585
+Y------QQA---TAAAAAA---------------------------------------AA--GI--PG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+--------------------------------QQMNGVP--------------------------P------
+-----------QQFRNA-----PV-----------------------------------------YGGMPPQ
+GA-FP--RN----GAA-GNNH----FY
+>E.gossypii/419-501
+F------QHA---N--AAAA--------------------------------------AAV--AG-LPG---
+-QFMPPP----M----------YY-----------GGI-PPRVP----------F-----------------
+------------------------------------------------------------------------
+------------------QGPNP-----Q-------------------------------------------
+MAG----------------------------MPKNGAMP-P------------------QQFGRPG------
+----------------------PM-----------------------------------------YGGFAPQ
+GQ-FP--------RNGQQQQF----YQ
+>N.dairenensis/421-499 N.dairenensis_strain_ATCC_10597 G0W908 G0W908_NAUDC G0W908 Uncharacterized protein IPR000504,IPR002004 EOG706125 NAUDC
+Y------QQA---T-AAAAAAA-----------------------------------AGIP--GQ-------
+-FM--PP---------------MF-Y---------GVM----PP-------------------RG----V--
+--------------PFN------GPN----------------------------------------------
+----PQQMNGV------PPQQFR-------------------------------------------------
+-------------------------------------NAPVYGGMPPQ----GAFPRNGAAGNNHF------
+------------------------------------------------------------------------
+-------------------------YQ
+>Z.rouxii/422-511 ZYRO0B11660g/1-587
+Y------QQV-------TAA--------------------------------------AAA--AA--AGMRG
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-----Q-QLA---------------------------------------
+---------------------------------AMGGMP-K--------------------NGMPP------
+-----------QQFRNG-----PM------------------YGVPPQGA-------P-------QQAGFVR
+NG-----------ANA--NQF----YQ
+>L.waltii/421-506 Kwal_56.23486/1-587
+Y------QQA---T---AAA--------------------------------------AAA--AG-MPG---
+-QFMQPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-----QQMAA---------------------------------------
+MNG----------------------------MPKNGVPP--------------------QQFGRPN------
+-----GPMYG-VPPQGP------------------------------------------------QGAFPRN
+GN-QF--FH------------------
+>L.thermotolerans/421-506 KLTH0G14344g/1-587
+Y------QQA---T--AAAA---------------------------------------AA--AG-MPG---
+-QFMQPM---------------FY-----------GVM----PP--R----GVPF-----------------
+------------------------------------------------------------------------
+------------------NGPNP-----Q-QMA-AMN-----------------------------------
+-------------------------------GIPKNGVP-P------------------QQFGRPA------
+-----GPMYG-----VP-----PQ-------------------------------G-P-------QGAFPRN
+GN-QF--FH------------------
+>T.delbrueckii/423-512 TDEL0A01350/1-588
+Y------QQV-------TAA--------------------------------------AAA--AA--AGMRG
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-----Q-QMA---------------------------------------
+AMG----------------------------GMPKNGVP--------------------PQ-----------
+-----QFRNG-PVYGVP-----PQ-------------------------------GAP-------QQGQFMR
+NG-----------AGA--NQF----YQ
+>L.kluyveri/421-510 SAKL0H17952g/1-589
+Y------QQV---T--AAAA--------------------------------------AAA--AG-MPG---
+-QFMPPM---------------FY-----------GVM----PP--R----GVPF-----------------
+------------------------------------------------------------------------
+------------------NGPNP-----Q-QMA---------------------------------------
+---------------------------------AMGGMP-K---NGVI------PP---QQFGRPN------
+-----GPMYG-----VP-----PQ-------------------------------GAP-------QGGFPRN
+GG-NQ--FY-----------------H
+>K.marxianus/430-518 tr|W0TBW0|W0TBW0_KLUMA Polyadenylate-binding protein OS=Kluyveromyces marxianus DMKU3-1042 GN=KLMA_30299 PE=4 SV=1
+F-Q----QQQ---Q---QAA--------------------------------------AAA--AG-MPG---
+-QYMPQM---------------FY-----------GVM----AP--R-------------------------
+------------------------------------GF----------------------------------
+------------------PGPNP-----------NMN-----------------------------------
+-------------------------------GPMGAAIP--------------------KNGMVPP------
+-----PQQFA-GRMNAP----------------------------------------M-------YQGMPPQ
+NQ-FP--------RHQQQHYI----QQ
+>K.lactis/431-520 KLLA0C17600g/1-592
+F-Q----QQQ---Q--QQAA--------------------------------------AAA--AG-MPG---
+-QYMPQM---------------FY-----------GVM----AP--R-------------------------
+------------------------------------------------------------------------
+------------------GFPGP-----N-------------------------------------------
+-------------------------------PGMNGPMG-----AG-----------------IPK------
+-----------NGMVPP-----PQ----------------QFAGRPNGPM---------------YQGMPPQ
+NQ-FP--RH----QQQ--HYI----QQ
+>E.caballus/346-511 ENSECAG00000020699 ENSECAP00000018467 F6TQ92 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP ECABA
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>K.naganishii/428-509 KNAG0G01810/1-596
+Y------QQA---T--AAAA--------------------------------------AAA--AG-IPG---
+-QFMPPM---------------FY-----------GVM----PP--R-------------------------
+---------------------------------------GV-------------------------------
+-------PF---------NGPNP-------------------------------------------------
+--------------------------------QQMNGVP---------------PQ----------------
+-----QFRNG-PMYGMP-----PQ-------------------------------GAP-------------Q
+GA-FP--RN----AGANANQF----YQ
+>A.mellifera/364-528 GB54590-PA IPR000504,IPR002004 EOG7RC9PC AMELL
+M------QQM---G---QIF---------------------------------------QP--GG--AG--N
+-YFVPTI----P-----QPQR-FY----GPAQM--AQI-RT-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFATM--------------------QG---------
+-------PFR-----A--APRAP-----T-AQA-GTM-----------RNT----LS-------ARP-----
+ITG--------QQAVG---------------GANMQNRS-M---AGPAVGVSA------QS--RPS------
+-----NYKYT-SNMRNP-----PQ-------------------AMAIPAP--T--P-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>B.mori/384-531 gi|148298695|ref|NP_001091823.1| poly A binding protein [Bombyx mori]
+M------QQM---G---QIF---------------------------------------QP--SG--AS--G
+-FFVPSL----P---PAPR---YY----GPAQM--TQI-RPTTP--R-------W------------NAQPP
+VR------------PST-------------Q--AASAYANM-------------------------------
+-----QPTYR-----P--APRAP-------AQS-TIR----------------TSLG-------ARP-----
+ITG--------QQGVA---------------AAAASIRP---------------PLVSQSS--RPA------
+-----NYKYT-PNMRNP-----PA---------------------------------P-------QPAVHIQ
+GQ-EP--LT----STM-LAAA----PL
+>L.humile/366-533 LH23428-PA IPR000504,IPR002004 EOG7RC9PC LHUMI
+M------QQM---G---QIF---------------------------------------QP--GN--AG--S
+-YFVPTL----P-QP--QR---FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFTSM--------------------Q-A--------
+-------PFR-----T--APRAP-----A-AQA-GAL-----------RNS---MSA--------RP-----
+ITG--------QQAV-G--------------GANMQSRS-M---AGPAVGVS--PG---QS--RPS------
+-----NYKYT-ANMRNP-----PQ----------------ATMALPAQT---P--S-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>M.pusilla/413-538 gi|303272375|ref|XP_003055549.1| predicted protein [Micromonas pusilla CCMP1545] >gi|226463523|gb|EEH60801.1| predicted protein [Micromonas pusilla CCMP1545]
+-------PNM---G----PY--------------------------------------GMP--PP------G
+----APM---------------YY----GQPPP--GVMGPP-QP--Q----------------P-----GYG
+FQ------------PGMP-------------------------------------------PGV--------
+----PGRPM---------GPGGP-----NMQYVMPMP---------------------------QRG-----
+PPG--------QR------------------GRGGRGGP-----GG-------------GRGGRGQ------
+-----------QGMRFP-----NQ-------------------GREMPPA-----PLP-----------PGE
+PQ-DPVSLL----AAQ-LPTA----TP
+>T.castaneum/393-535 GLEAN_05185 D6W7F7 Putative uncharacterized protein IPR000504,IPR002004 EOG7RC9PC TCAST
+M------HQM---G----QF--------------------------------------IQP--GT-SSG---
+-YFVPTI----PAP---QR---FY----GAAQM--AQI-RT-NP--R-------W--------P----AQTP
+VR------------PGAQ------------------GSANP--------------------YGT--------
+----IPTTYR--------AAPRP-----P-NQSAALR---------------SNINV-------PRP-----
+ITG--------QQ------------------PPNIQGRP-L---ASQAVVAP-------AG-----------
+-----------LGISNA-----AP---------------------------------V-------QQAVHIQ
+GQ-EP--LT----ATM-LAAA----PP
+>I.tridecemlineatus/390-555 ENSSTOG00000016395 ENSSTOP00000014679 I3MRG5 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP ITRID
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>L.gigantea/391-536 tr|V4B094|V4B094_LOTGI Uncharacterized protein OS=Lottia gigantea GN=LOTGIDRAFT_137449 PE=4 SV=1
+Q-SMQN-GQF---S---QIF--------------------------------------QPS--AG--AG---
+-YFVPSM----P-----HAARGYF----TQAQM--PQV-QA-SP--R-------W-------------QTPF
+RQ------------PQAQPGEFSPKFVFIIRLRKSTNFQSA-------------------VPGN--------
+-------QIRQPTRFT--GGSQP-------VRA-NVN---------------------------ARP-----
+ITG------------------------------QAGSAQ-A-------------------------------
+-----------MNQRMP----------------------------------------G-------MASVVIP
+GQ-DP--LT----ASM-LAAA----PP
+>D.plexippus/393-538 DPOGS203821-PA IPR003954,IPR002004 IPR000504 EOG7RC9PC DPLEX
+M------QQM---G---QIF---------------------------------------QP--GS--AG--G
+-YFVPTI----P---PAQR---FY----GPAQI--TQM-RP-SQ--R-------W------------TAQPP
+VR------------PST--------------QTAASAYPNM--------------------QA---------
+-------PFR-----P--TTRGP-----T-------------------QTALRTSLG-------ARP-----
+ITG----------------------------QQGVAAAPSI---RAPLVPSG-----------RTA------
+-----GYKYT-STVRNP-----PA---------------------------------P-------QPAVHIQ
+GQ-EP--LT----ASM-LAAA----PL
+>P.polytes/393-539 gi|389610655|dbj|BAM18939.1|/1-611 polyA-binding protein [Papilio polytes]
+M------QQM---G---QIF---------------------------------------QP--GG--TG--G
+-YFVPTI----P---PAQR---FY----GPAQM--TQI-RP-SP--R-------W------------TAQPA
+VR------------PNA--------------QSAASAYPNM-------------------------------
+-----QPPFR-----P--APRGP-------AQA-ALR----------------SSMG-------ARP-----
+ITG--------QQGVA---------------TAASIRAP-----IV-------------PQSGRPA------
+-----GYKYT-SNMRNP-----PA---------------------------------P-------QPAVHIQ
+GQ-EP--LT----TTM-LAAA----PL
+>P.xylostella/393-539 Px011994.1 IPR003954,IPR002004 IPR000504 EOG7RC9PC PXYLO
+M------QQM---G---QIF---------------------------------------QP--GG--GG--G
+-YFVPTL----P---PAQR---FY----GPAQM--TQI-RP-SP--R-------W------------TAQPP
+VR------------PSA--------------QTAASGYPNM--------------------QA---------
+-------PFR-----P--APRGP-----A-------------------QAAMRTSLG-------ARP-----
+ITG--------QQG-----------------VATAGSIR-----APLVAQAG-----------RPA------
+-----GYKYT-ANMRNP-----PA---------------------------------A-------QPAVHIQ
+GQ-EP--LT----ASM-LAAA----PL
+>B.glabrata/389-550 BGLTMP012811 BGLTMP012811-PA IPR003954,IPR002004 IPR000504 EOG7RV9FP BGLAB
+-------RQQ-----------------------------------------------NVQY--NP-------
+-IFNAG----------------------GA-----GYF----VP-------------------TM-P-QAQR
+--------------GFF-------T---PA-NV--PSIRQA--------------------R-A--PW-AP-
+----SVRPNQAA-GF-QAMSN--QIR-TRP------------PTAQTQMRPTTV--NSRPI-----------
+-----------------------------TGQSVAAGAPR--V---AAMA-GMTRPPGAGAIPQ--------
+------QARP-NPYPNS----------RP-----------------QMA-GQPGRPMQ-QAQQ----SVVIP
+GQ-DP--LT----ASM-LAAA----PP
+>P.xuthus/393-539 gi|389608229|dbj|BAM17726.1|/1-619 polyA-binding protein [Papilio xuthus]
+M------QQM---G---QIF---------------------------------------QP--GG--TG--G
+-YFVPTI----P---PAQR---FY----GPAQM--TQI-RP-SP--R-------W------------TAQPA
+VR------------PNA--------------QSAASAYPNM-------------------------------
+-----QPPFR-----P--APRGP-----A-------------------QAALRSSMG-------ARP-----
+ITG--------QQGVA---------------TASSIRAP-----IV-------------PQSGRPA------
+-----GYKYT-SNMRNP-----PA---------------------------------P-------QPAVHIQ
+GQ-EP--LT----TTM-LAAA----PL
+>T.truncatus/390-539 ENSTTRG00000004689 ENSTTRP00000004419 IPR003954,IPR002004 IPR000504 EOG7RV9FP TTRUN
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------NTL---------------------------------------------REFA-IP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>B.floridae/394-545 jgi|Brafl1|234358|e_gw.313.40.1 IPR000504,IPR002004 EOG7RV9FP BFLOR
+M------P-------------------------------------------------APQP--NQ-------
+-MFQGS-----------------------------SYF----MP-------------------SM-------
+QP------------RYF-----------PS-QM--AQV-RA--------------------S-P--RW----
+QQAAPMRPGGQATAF-QAMPA------AGSRFPA----------------------ATAPRAAAAAVRQVA-
+-----------------------------PQAMARTTQPPAQRMAGRVAAMANQQPRPG-------------
+------YKYT-ATMRNP------------------------------PSGGQPQAMNPS--------AVHVQ
+GQ-EP--LT----STM-LAAA----PP
+>B.prasinos/425-555 gi|612396155|ref|XP_007513597.1| predicted protein [Bathycoccus prasinos]
+A------PMY---G--MPPP--------------------------------------GVP--GG------G
+---MPGM---------------YY----GQPPP--GMM----PP----------------------------
+-Q------------PQP----------------GFGFQPGM-------------------------------
+---------------P--GGPRP----MP-GYNMPGV---------------------------PNM-----
+MRG----------------------------PGGMGGRG-GRGRGQPGMGGRGGPQ-------NGR------
+-----------QNFRQQ---------------------------QPMPPMPGQAAPEP-----------PAA
+ES-NPIALI----VSQ-LGTA----TP
+>H.robusta/392-545 Hel_185682 http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Helro1&id=185682
+V---PPGNPM---A---PVF----------------------------------------P--GS--QS---
+-YYVP------------QR-G-FY----APSL---PNF----RQ--R-------W--------N------PA
+QN------------MRPQ---------------QQAGMMQM--------------------SAN--------
+----TGSQLS----QV--RPTRP-----I-AGG-TVR-----------PAT---MTG--------RT-----
+ISG----------------------------QSIMQGRT-V---MPPQVMQAQIPQMMRQA--QQA------
+-----PMQFN-KGIRNL-----SN----------------------------V--P-L-------QQAVLAT
+GQ-EP--LT----ASM-LADA----PP
+>P.sinensis/374-539 ENSPSIG00000003719 ENSPSIP00000003940 K7F7D0 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP PSINE
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AL-P-PTQN
+RA------------AYY-------P---TS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-AVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-TQPQVAMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>V.carteri/397-549 gi|302844953|ref|XP_002954016.1|/1-620 hypothetical protein VOLCADRAFT_82578 [Volvox carteri f. nagariensis]
+-------LGM---G---AMT--------------------------------------RPP--NP-MTG-MG
+PYGPGAM----P----------FF--AAGPGGM-------PAGP--R----------------------APG
+MM------------YPGP-------------MMPPRGMPG---------------------PGR--------
+----GPRGPM--------MPPQA-----A-AFG-PMM---------------------------APP-----
+MGP----------------------------ARGRGGRG-R----GPMMPMAPYPG-------PGP------
+------VEFP---VPAP-----SV----------------AAASVPVPAVAVP--A---------PEPEVPA
+AQ-QP--LT----AAA-LAAA----AP
+>C.lusitaniae/432-545 C.lusitaniae_strain_ATCC_42720 C4Y7A4 C4Y7A4_CLAL4 C4Y7A4 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 CLAL4
+M------QNA---A-A-----------------------------------------AGIP--GQ-------
+-FM--PP---------------MF-YG----QQP-GFF----PG-------------------NG----RNN
+G-------------PFP--GP--NPQM------MMPRGQMP--------------------P-P--------
+----QGQWPRA--G--PNGQPVP----VYGM-----------------------------------------
+--------------------------------------PPVYNDFNGP--NGRQQRGYFPNNRNQK------
+------------------------------------------------------------------------
+GG-RR--DL----AAI-IASA--P-PD
+>T.adhaerens/401-554 TriadG27786 TriadP27786 B3S125 Putative uncharacterized protein IPR000504,IPR002004 EOG7RV9FP TADHA
+I------PQP---G-------------------------------------------QPGV--NQ-------
+-MFQQG-----------------------------GYY----MP-------------------GMHQGQ-QQ
+QQ------------RFY------------------ATQQMP--------------------ARP--RW-QNQ
+QMMRNSGGGSSYGGIGGGSQMGRGRGMRFAGVPR----------------------SQGQQNVNPSQRS---
+---------------------------------------------------AAANAALVSNQPRHP------
+-----PYKHS-NVRNIP----------PQ-----------------APSQANHQTRAQ-----------PAQ
+DA-DN--LT----THL-SQVD--E-PQ
+>C.reinhardtii/404-552 gi|2935338|gb|AAC39368.1|/1-623 poly(A) binding protein RB47 [Chlamydomonas reinhardtii]
+M------------G---AMS--------------------------------------RPP--NP-MAG--M
+SPYPGAM----P----------FF----APGPG--GMAAGPRAPGMM-------Y---------------PP
+MM------------PPR-------------------GMPG---------------------PG---------
+------------------RGPRG-----P-MMP-------------------------------PQM-----
+MGG--------PMM-----------------GPPMGPGR-----GRGGRGPSGRGQ---GRGNNAP------
+-----------AQQPKP-----AA----------------EPAAAPAAAAPAAAAPAA------AAEPEAPA
+AQ-QP--LT----ASA-LAAA----AP
+>S.commune/423-561 S.commune_strain_H4-8 D8Q7P2 D8Q7P2_SCHCM D8Q7P2 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 SCHCM
+M------QQV---A-VQ----------------------------------------------GG-------
+-YMGGP----------------MY-YPPPG-----PYG----AP-------------------QG----RGM
+MG-------------YG------QPAM-----------MPP--------------------R-P--RY----
+----PPQTGGM--PIPAPYGQAPPPPQGYPVPPAGRG-----------------------------------
+--------------------------------------APRANGAPAPTSPVAGRAHTRPQGKGPG------
+---------------------------------------------SPKRAAAPAQAMP---------APQPT
+EP-GQ--IN----MAA-FNSV--S-PM
+>R.delemar/425-547 R.delemar_strain_RA_99-880 I1C6C0 I1C6C0_RHIO9 I1C6C0 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 RHIO9
+M------QQG---M-PM----------------------------------------PGAP---G-------
+-YMPGAP---------------MF-YAPPG-----QFM----PQ-------------------GQ-------
+-----------------------RPAV------FAPNGMMP--------------------R-P--RW----
+----APQQGQPMPGF--PPQGFA----------------------ANGNVR---------------------
+--------------------------------------PPRQPRAPRG--GAAGQRKYANQSRPAA------
+----------------------------------------------AAPAAAESAEP---------------
+AV-AP--LT----AAA-LAAA----PA
+>P.sorbitophila/431-546 P.sorbitophila_strain_ATCC_MYA-4447 G8YLA6 G8YLA6_PICSO G8YLA6 Piso0_001626 protein IPR000504,IPR002004 EOG706125 PICSO
+M------QNA---A-AT----------------------------------------GGIP--GQ-------
+-FI--PP---------------MF-YG----QQP-GFF----PP-------------------NG----RGS
+A-------------PFP--GP--NPQM------MVPRGQIP--------------------P-P--------
+----QGQWPRA--G--PNGQPVP----VYGI-----------------------------------------
+--------------------------------------PPVYGDF-AA--ANGGRQ---QR-----------
+----------------------------------------------GYYPNRQNQKG---------------
+RP-QK--DL----AAL-LASA----PV
+>P.pastoris/433-545 P.pastoris_strain_ATCC_76273_ F2QU09 F2QU09_PICP7 F2QU09 Polyadenylate-binding protein, cytoplasmic and nuclear IPR003954,IPR002004 IPR000504 EOG706125 PICP7
+M------QQQ---A-------G-----------------------------------PGIP--NQ-------
+-FVQ--P---------------IF-YG----QQP-GML----PP-------------------------GAR
+---------VP---PMG--NQ--IPQF----------AGMP--------------------R-P-GPF--P-
+Q-GQFPRMAPN--GQ-PMPVYGQ--PVFNGN-----------------------------------------
+--------------------------------------GPQQRGYYPN--NRQNKN---RNQKEEG------
+------------------------------------------------------------------------
+----N--SL----AAI-LPQL--P-LE
+>C.dubliniensis/432-548 C.dubliniensis_strain_CD36 B9W7B8 B9W7B8_CANDC B9W7B8 Polyadenylate-binding protein, cytoplasmic and nuclear, putative IPR000504,IPR002004 EOG706125 CANDC
+M------QNA---A-A-----------------------------------------GGLP--GQ-------
+-FM--PP---------------MF-YG-----QQ-GFF----PP-------------------NG----RGN
+A-------------PYP-GP---NPQM----------MMRG--------------------R-G-QPF----
+----PEQWPRP--G--PNGQPVP----VYGI-----------------------------------------
+--------------------------------------PPQFQQ-DFN--GQNMRP----QQQQQQ------
+----------------------------------------------PRGGYYPNRNQ---------------
+TN-KR--DL----AAI-ISSV----PQ
+>D.hansenii/432-550 D.hansenii_strain_ATCC_36239 PABP PABP_DEBHA Q6BI95 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 DEBHA
+M------QNA---A-AT----------------------------------------GGIP--GQ-------
+-FI--PP---------------MF-YGQQP-----GFF----PP-------------------NG----RGN
+G-------------PFP--GP--NPQM------MMPRGQIP--------------------P-P--------
+----QGQWPRP--G--PNGQPVP----VYGM-----------------------------------------
+--------------------------------------PPVYGGDFNN--GANGGR----------------
+----------------------------------------------QQRGYYPNRNQ---------------
+NQ-KG--RQ----QKD-LAAIIANAPA
+>N.vitripennis/393-556 Nasvi2EG013335t1 IPR003954,IPR002004 IPR000504 EOG7RC9PC NVITR
+M------QHM---G---QVF---------------------------------------QA--GG--AG--S
+-YFVPTL----PQP---QR---FY----GPAQM--AQI-RT-TP--R-------W--------P-----AQP
+VR------------PNA--------------QAAGSNFATM-------------------------------
+-----QTPFR--------AAPRA-----P-TAQ---------------SSMARNALS-------ARP-----
+ITG--------QQAVPG--------------AANMQNRS-M---AGPAVGVSP------QS--RTS------
+-----NYKYT-ANMRNP-----PQ-----------------TMAMPAQTP-------A-------QQAVHIQ
+GQ-EP--LT----ASM-LADA----PP
+>A.aegypti/383-559 AAEL010318-PA Q1HR66 AAEL010318-PA; AAEL010318-PB; Polyadenylate-binding protein IPR000504,IPR002004 EOG7RC9PC AAEGY
+M------QHM---G---QIF---------------------------------------QP--GG--NG--G
+-YYVPTL----PQPQR------FF-----SKQV--SQI-RT-TP--G-------W--------------FRA
+NT------------NQNA----------VAANAAGGAYPAM-------------------AAAT--------
+----AGNQYRQAANVRA-NQPAP-------NAQAAQA-----------ANAAAMRNS-------ARP-----
+ITG--------QQA-----------------GGNMQARP-----VAPQMAAN-------QA--RAA------
+-----NYKYT-QNMRNP-----PA------------------QAVPMAAQ-----PVA-------QQAVHVK
+GQ-EP--LT----ASM-LAAA----QP
+>C.quinquefasciatus/383-559 CPIJ007980-PA B0WMK0 Polyadenylate-binding protein 1 IPR000504,IPR002004 EOG7RC9PC CQUIN
+M------QHM---G---QIF---------------------------------------QP--GG--NG--G
+-YYVPTI----PQPQR------FF----GKQV---SQI-RT-TP--G-------W--------------FRA
+NA------------ANQN---------AVAANAAGGAYPAM-------------------AAAT--------
+----AGNQYRQAGNVRGQQQQAP-----NAQAQ---------------AASAAMRNS-------ARP-----
+ITG--------QQA-----------------GGNMQTRP-----VAPQMAAN-------QA--RAA------
+-----NYKYT-QNMRNP-----PA----------------QPVAIPTQPV-------A-------QQAVHVK
+GQ-EP--LT----ATM-LAAA----QP
+>C.albicans/433-550 C.albicans_strain_SC5314 PABP PABP_CANAL Q5AI15 Polyadenylate-binding protein, cytoplasmic and nuclear IPR003954,IPR002004 IPR000504 EOG706125 CANAL
+M------QNA---A-A-----------------------------------------GGLP--GQ-------
+-FI--PP---------------MF-YG-----QQ-GFF----PP-------------------NG----RGN
+A-------------PYPGP----NPQM----------MMRG--------------------R-G-QPF----
+----PEQWPRP--G--PNGQPVP----VYGI-----------------------------------------
+--------------------------------------PPQFQQD-FN--GQNMRP---QQQQQQQ------
+----------------------------------------------PRGGYYPNRNQ---------------
+TS-KR--DL----AAI-ISSV----PQ
+>P.angusta/428-557 P.angusta_strain_ATCC_26012 E7R6F4 E7R6F4_PICAD E7R6F4 Poly(A) binding protein IPR000504,IPR002004 EOG706125 PICAD
+M------QQA---A-AQ----------------------------------------GGM---GQ-------
+-FV--AP---------------MF-YGQNP-----GFL----PP-------------------GA----RGA
+--------------PFA------APG----------------------------------------------
+----QQMMMQQ--GMPRPGQGVPVSPGQFRVGPNGQPVPMYMQPVFNEYPQNGR------------------
+--------------------------------------LPQQRYYQGG--RPGQQP---PQAGPRG------
+--------------------------------------------------------------------KRED
+GA-VP--SL----AQV-LPQF--P-PE
+>A.thaliana/423-552 sp|P42731|PABP2_ARATH Polyadenylate-binding protein 2 OS=Arabidopsis thaliana GN=PAB2 PE=1 SV=1
+M----------------PVY---------------------------------------PP--GG-------
+----PGI----GQQM-------FY----GQAP---PAMIPP-QP--G-------Y--------G------YQ
+QQ------------LVPG------------MRPGGGPVPSF-------------------------------
+--------FM-----PMVQPQQQ-----R-PGG-GRR-----------------PGG-------IQH-----
+SQQ----------------------------QNPMMQQQ-M------------------HP--RGR------
+-----MFRYP-QGRGGS-----GD-----------------------------------------VPPYDMG
+NN-MP--LTIGALASN-LSNA----TP
+>Y.lipolytica/427-555 Y.lipolytica_strain_CLIB_122 PABP PABP_YARLI Q6CDH3 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 YARLI
+L------QQQ---A-AA----------------------------------------GGLP--GQ-------
+-YMGNPG---------------VF-YPGQP-----GFM----PP-------------------GR----GGM
+--------------PFGA-----NPQM------------MM--------------------R-P--------
+----PMPPQNQ-----FPPRGVPGGPNMYGAPPQGYQ---------QGGFPPQ-------------------
+--------------------------------------GPMRGGQPPR--S--GQP----GPQGQF------
+----------------------------------------------RGAPRRKDGES---------------
+RV-AD--SI----SNA-LENA----PE
+>B.terrestris/393-557 gi|340719918|ref|XP_003398391.1|/1-630 PREDICTED: polyadenylate-binding protein 1-like isoform 1 [Bombus terrestris]
+M------QQM---G---QIF---------------------------------------QP--GG--AG--N
+-YFVPTI----P-----QPQR-FY----GPAQM--AQI-RT-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFATM--------------------QG---------
+-------PFR-----A--APRAP-----T-AQP-GAM-----------RST----LS-------ARP-----
+ITG--------QQTVG---------------GANMQSRS-M---AGPAVGVSA------QS--RPS------
+-----NYKYT-SNMRNP-----PQ-------------------AMAIPTP--T--P-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>B.impatiens/393-557 gi|350408504|ref|XP_003488426.1|/1-630 PREDICTED: polyadenylate-binding protein 1-like isoform 1 [Bombus impatiens]
+M------QQM---G---QIF---------------------------------------QP--GG--AG--N
+-YFVPTI----P-----QPQR-FY----GPAQM--AQI-RT-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFATM--------------------QG---------
+-------PFR-----A--APRAP-----T-AQP-GAM-----------RST----LS-------ARP-----
+ITG--------QQTVG---------------GANMQNRS-M---AGPAVGVTA------QS--RPS------
+-----NYKYT-SNMRNP-----PQ-------------------AMAIPAP--T--P-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>A.pisum/384-558 ACYPI000944-PA IPR003954,IPR002004 IPR000504 EOG7RC9PC APISU
+M------QSI---G---PIY---------------------------------------QP--GA-SSG---
+-YFVPTI----PQP---QR---FY----GPTQM--TQI-RP-QP--R-------W--------------ASQ
+PQ------------VRAG-----------TPQAAAAGYPNM-------------------------------
+-----ATQYRNIGA----RAPVP-----A-GQQ-AAL-----------ARNAMVDRN-------ARP-----
+IST----------------------------AQQQMPGA-V---AAGGVRVPGARG-------TGS------
+-----GYKYT-ANMRNP-----PG----------------QAQGMGQAQPGQPPAP-V-------QAAVHVH
+GQ-EP--LT----ATM-LATA----KP
+>A.californica/390-557 gi|524916987|ref|XP_005113260.1|/1-630 PREDICTED: polyadenylate-binding protein 1-B-like isoform X1 [Aplysia californica]
+Q------QNV---Q--YNPL---------------------------------------FS--GG--AG---
+-YFVPTM----P-----QAQRGFF----TPANM--TSIRPARAP----------W--------------GQS
+IR------------PNQA---------ADDVDALSAGFQAM-------------------------------
+---------------PSQIRTRP-----PTAQT-QMR-----------PNTVN-----------SRP-----
+ITG----------------------------QPGGGPAPRG---VAMPNLARPQGPSMGQPGARPT------
+-----GYPGRGQGMAGQ-----PG--------------------RPMPQP---------------QQSVVIP
+GQ-DP--LT----ASM-LAAA----QP
+>A.florea/393-557 gi|380019828|ref|XP_003693803.1|/1-630 PREDICTED: polyadenylate-binding protein 1-like [Apis florea] >gi|571552393|ref|XP_006562406.1| PREDICTED: polyadenylate-binding protein 1-like isoform X1 [Apis mellifera] >gi|572268930|ref|XP_006612497.1| PREDICTED: polyadenylate-binding protein 1-like [Apis dorsata]
+M------QQM---G---QIF---------------------------------------QP--GG--AG--N
+-YFVPTI----P-----QPQR-FY----GPAQM--AQI-RT-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFATM--------------------QG---------
+-------PFR-----A--APRAP-----T-AQA-GTM-----------RNT----LS-------ARP-----
+ITG--------QQAVG---------------GANMQNRS-M---AGPAVGVSA------QS--RPS------
+-----NYKYT-SNMRNP-----PQ-------------------AMAIPAP--T--P-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>M.rotundata/393-557 gi|383862667|ref|XP_003706805.1|/1-630 PREDICTED: polyadenylate-binding protein 1-like isoform 1 [Megachile rotundata]
+M------QQM---G---QMF---------------------------------------PP--GG--AG--N
+-YFVPTI----PQP---QR---FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGNSGFATM--------------------QG---------
+-------PFR-----T--TPRAP-----T-AQAGTMR----------------STLS-------ARP-----
+ITG--------QQAVG---------------GANMQSRS-M---AGPAVGVSA------QS--RPS------
+-----NYKYT-SNMRNP-----PQ-----------------AMAIPAPTP-------V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>Z.nevadensis/393-556 gi|646719456|gb|KDR21568.1|/1-630 Polyadenylate-binding protein 1 [Zootermopsis nevadensis]
+M------QQM---G--TQMF---------------------------------------QP--GG--AG--G
+-YFVPTL----PQP---QR---FY----GPTPM--TQI-RA-TP--R-------W--------P----AQPQ
+VR------------PNA--------------QGGASGFPNM--------------------QG---------
+-------PFR--------TAPRA-----P-GVQ---------------PGSMRNALS-------ARP-----
+ITG--------QQPVG---------------AANIQGRP-M---APTVSVNA-------QG--RPT------
+-----NYKYT-ANMRNP-----PQ-------------------PMPVAQQ-----PPV-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>P.marinus/392-554 gi|2665654|gb|AAB88449.1| polyadenylate binding protein [Petromyzon marinus]
+A-VPPS-AII---G----QY---------------------------------------QP--AA--AS--G
+-YFMAAM----P-QQAQGRTA-YY----TPSPM--APM-RP-NP--R-------W--------P------LQ
+VR------------PQGA---------------HAAGFQAI--------------------TG---------
+-------PMRQ-------PAPRP-----T-QMR-TVN-----------PASVPQV---------PRA-----
+-------------------------------SQGMMPRP-----TFPTQAAG-------PR--ALP------
+-----GYKYT-GSVRNP-----QQ---------------------PGVQGPGAMQQAP-------QSAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>C.thermophila/424-554 Calth2p4_006126 scaffold00012:538615..540613 (Calcarisporiella thermophila CBS 279.70)
+L------QQA---AAAQGIP--------------------------------------AAP--GY-LPG--S
+PMFYPPG----PGFIPQGQRGPVF----PQPGM------VP-RP--R-------W--------------APA
+GN------------QQPQ------------------------------------------------------
+-------QMH-----P--GGPMP-------YHQ---------------------------------------
+MPQ----------------------------GFAGGPPS--------------------QRPGRQP------
+-----RHPRGGGHHARP-----PH--------------------QQAPSG---------------EARPQRP
+GS-N---LT----PSA-LAAA----PP
+>C.teleta/392-551 Cap_164502 http://genome.jgi-psf.org/cgi-bin/dispGeneModel?db=Capca1&id=164502
+M------QGQ---G-VNQIF---------------------------------------GP--GG--TG---
+-YFVPTM-------AQTQRGG-FY----APTQI--APQVRS-TP--R-------W---------------QA
+PN------------PRAQ----------------TAGYAQL--------------------PGS--------
+----GPM-----------RNPRP----NTQQVRAGAN---------------------------SRP-----
+ITG----------------------------EFRMPGAQ-VNRPAQPGAMQAGGQQ-------RAP------
+------FKYT-QAVRNATGQV-PG-----------------GAAQPQAQT-----------------AVVIQ
+GQ-EP--LT----ASM-LAAA----AP
+>M.guilliermondii/439-558 M.guilliermondii_strain_ATCC_6260 PABP PABP_PICGU A5DM21 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 PICGU
+M------QNA---A-AA----------------------------------------AGMP--GQ-------
+-FM--SP---------------MF-YG----QQP-GFF----PP-------------------NG----RGG
+AQG-----------PFP--P---NPQM-----------MMP--------------------R-G-GQM-PP-
+----PQGQWPR--AG-PNGQPVP----VYGM-----------------------------------------
+--------------------------------------PPVYGGEFN------GPN---GQRQQRG------
+----------------------------------------------AYPPNRNQKGG---------------
+RP-QR--DL----AAI-ISTV----PV
+>S.araneus/363-553 ENSSARG00000000310 ENSSARP00000000279 IPR003954,IPR002004 IPR000504 EOG7RV9FP SARAN
+-------RAL---PA------------------------------------------NAIL--NQ-------
+-FQPA-----------------------AG-----GYF----VP-------------------AV-P-QAQG
+RP------------PYY-------T---PN-QL--AQM-RP--------------------N-P--RW-QQ-
+----GGRPQ----GF-QGMPS--AI--RQS-GPR--------PT-LRHLAPTGN--APASRGLPTTAQRVGS
+ECPDRLAMDFGGAGAAQQGLTDSCQSGG-VPTAVQNLAPR-------AAV---AASAPR-AVTP--------
+------YKYA-SSVRSP----------HP-----------------ALQ-P---LQAP-QP------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>S.stipitis/433-547 sp|A3LXL0|PABP_PICST Polyadenylate-binding protein, cytoplasmic and nuclear OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) GN=PAB1 PE=3 SV=1
+M------QNA---A---------------------------------------------AT--GG-IPG---
+-QFIPPM---------------FY----GQQ----GFF----PP--N----------------------GRG
+NA------------PFP------------------GPNPQM--------------------IMR--------
+----RGQPF---------GGPEQ----------------------------------------WPRP-----
+-------------------------------GPNGQPVP--------------------VY--GIP------
+-----PQAYSDFNGQNI-----RQ---------------------------------Q---RGYYPNRNQNK
+GR-QQRDL-----AAI-IASA----PP
+>O.garnettii/384-549 ENSOGAG00000033115 ENSOGAP00000019149 H0XSQ7 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP OGARN
+-------QAV---P-------------------------------------------NPVI--NP-------
+-YQPTP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+HA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--PW-TAQ
+----GARPH----PF-QNTPG--AI--HPA-APR--------PP-FSTKRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPC--P---AAAA-ASATPAVH-TIPQ--------
+------YKYA-AGVCNP----------WQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>C.tropicalis/430-549 C.tropicalis_strain_ATCC_MYA-3404 C5MFE8 C5MFE8_CANTT C5MFE8 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 CANTT
+M------QNA---A-AA----------------------------------------GGLP--GQ-------
+-FM--PP---------------MF-YG-----QQ-GFF----PP-------------------NG----RGN
+A-------------PFP--GP--NPQM----------MMRG--------------------R-G-QPF----
+----PEQWPRP--G--PNGQPVP----VYGI-----------------------------------------
+--------------------------------------PPQFQQDFNG--QNVRPP---QQQQQQQ------
+----------------------------------------------PRGGYYPNRNQ---------------
+TN-KR--DL----AAI-IASV----PQ
+>C.jacchus/388-552 tr|U3F6G2|U3F6G2_CALJA Polyadenylate-binding protein 1 OS=Callithrix jacchus GN=PABPC1 PE=2 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>X.laevis/391-553 PABPA_XENLA/1-633 sp|P20965|PABPA_XENLA/1-633 Polyadenylate-binding protein 1-A OS=Xenopus laevis GN=pabpc1-a PE=1 SV=3
+--V-PN-PVI---N----PY---------------------------------------QP---P--PS--S
+-YFMAAI----P--PAQNRAA-YY----PPGQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--TAPRP-----P-TFS-TMR-----------PAS---NQV-------PRV-----
+MSA--------QRV---------ANTS----TQTMGPRP-T---TA-AAAAA--SA---VR--AVP------
+-----QYKYA-AGVRN------QQ----------------HLNTQPQVAM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>P.troglodytes/390-552 ENSPTRG00000022593 ENSPTRP00000041427 H2R0X7 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP PTROG
+-------RAV---P-------------------------------------------NQ-------------
+---RAP----------------------PS-----GYF----MT-------------------AV-P-QTQN
+HA------------AYY-------P---PS-QI--TQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNKPS--AI--RPG-APR--------VP-FSTMRPAS---SQIPRVMSTQRV----
+-----------------------------ANTSTQTVGPR--PAAAAAAA-AAATPAVR-TVAR--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-ET--LT----ASR-LASA----PP
+>C.biroi/393-560 gi|607352878|gb|EZA47761.1|/1-633 Polyadenylate-binding protein [Cerapachys biroi]
+M------QQM---G---QIF---------------------------------------QP--GN--AG--S
+-YFVPTI----P-----QPQR-FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGSSGFAAM--------------------QAA--------
+-------PFR-----P--APRAP-----A-AQA-SAL-----------RNS----MS-------ARP-----
+ITG--------QQAVG---------------GANIQSRS-M---AGPAVGVS--PG---QS--RPS------
+-----NYKYT-ANMRNP-----PQ------------------AAMAMPTQ--A--P-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>D.yakuba/385-565 FBpp0256935 B4P4R4 GE11925 IPR000504,IPR002004 EOG7RC9PC DYAKU
+M------QQL---G---QIF---------------------------------------QP--NT--AS--G
+-FFVPTL----Q-----SNQR-FF----GSQVA--TQM-RN-TP--R-------W--------V------PQ
+VR------------PPAAVQGV------QAGAAAAGGFQGT--------------------AGA--------
+----VPTQFRSAAAGA--RGAQP-----Q-VQG-THA----AA----AAANNMRNTG-------ARA-----
+ITG--------QQTAAP--------------NMQIPGAQ-I---AG--------GA---QQ--RTS------
+-----NYKYT-SNMRNP-----PV--------------------QQLHQT--Q--P-I-------PQQLQGK
+NS-EK--LI----ASL-LANA----KP
+>D.sechellia/385-565 FBpp0203324 B4HNC5 GM21847 IPR000504,IPR002004 EOG7RC9PC DSECH
+M------QQL---G---QIY---------------------------------------QP--NA--AS--G
+-FFVPTL----P-----SNQR-FF----GSQVA--TQM-RN-TP--R-------W--------V------PQ
+VR------------PPAAIQGV------QAGAAAAGGFQGT--------------------AGA--------
+----VPTQFRSAAAGA--RGAQP-----Q-VQG-THA----AA----AAANNMRNTG-------ARA-----
+ITG--------QQTAAP--------------NMQIPGAQ-I---AG--------GA---QQ--RTS------
+-----NYKYT-SNMRNP-----PV--------------------PQLHQT--Q--P-I-------PQQLQGK
+NS-EK--LI----ASL-LANA----KP
+>D.melanogaster/385-565 PABP_DROME/1-634 sp|P21187|PABP_DROME/1-634 Polyadenylate-binding protein OS=Drosophila melanogaster GN=pAbp PE=1 SV=3
+M------QQL---G---QIY---------------------------------------QP--NA--AS--G
+-FFVPTL----P-----SNQR-FF----GSQVA--TQM-RN-TP--R-------W--------V------PQ
+VR------------PPAAIQGV------QAGAAAAGGFQGT--------------------AGA--------
+----VPTQFRSAAAGA--RGAQP-----Q-VQG-THA----AA----AAANNMRNTG-------ARA-----
+ITG--------QQTAAP--------------NMQIPGAQ-I---AG--------GA---QQ--RTS------
+-----NYKYT-SNMRNP-----PV--------------------PQLHQT--Q--P-I-------PQQLQGK
+NS-EK--LI----ASL-LANA----KP
+>D.rerio/391-554 tr|Q499B6|Q499B6_DANRE Poly A binding protein, cytoplasmic 1 a OS=Danio rerio GN=pabpc1a PE=2 SV=1
+A-V-PN-PVL---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QAQNRAA-YY----PTSQL--AQL-RP-SP--R-------W--------A-----TQG
+VR------------PQH--------------------FQNM--------------------PNA--------
+-------AVR-----P--SAPRP-----Q-TFN-PVR-----------PAS----QV-------PRM-----
+MTS--------QRM------------G----SQAMGPRP-A---AAGAATGP--AQ---VR--GVP------
+-----QYKYA-PGVRNP-----QQ----------------RMPTQPQVPM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>S.harrisii/390-553 ENSSHAG00000003431 ENSSHAP00000003896 G3VL41 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP SHARR
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQP------------------------PS-----GYF----MA-------------------AI-P-QAQN
+RP------------AYY-------P---PG-QI--APL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FGTMRPSS---SQVPR-AMSSRV----
+-----------------------------SNATSQSMGPR--A---AAGSASAGTPAVR-SAPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-PPPQVTLQ-QP------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>X.tropicalis/391-554 tr|Q6DF12|Q6DF12_XENTR Polyadenylate-binding protein 1 OS=Xenopus tropicalis GN=pabpc1 PE=2 SV=1
+--V-PN-PVI---N----PY---------------------------------------QP---P--PS--S
+-YFMAAI----P--PAQNRAA-YY----PPGQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--TAPRP-----P-TFS-TMR-----------PAS---NQV-------PRV-----
+VSA--------QRV---------ANTS----TQTMGPRP-T---TA-AAAAT--SA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNTQPQVAM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>M.domestica/390-553 ENSMODG00000006222 ENSMODP00000007717 F7FS75 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP MDOME
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQP------------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---AS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>F.heteroclitus/390-553 Funhe5EG032299t1 IPR003954,IPR002004 IPR000504 EOG7RV9FP FHETE
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QAQN
+RA------------AYY-------P---AAGQM--AQL-RP--------------------S-P--RW-TAQ
+----GVRPQ----HF-QNMTG--AM--RAS-APR--------PQSFGGMRPAA----QVPRMMSTQRV----
+--------------------------------APQTMAPR------PPAAPTAA-TAPVRGVTQ--------
+------YKYA-PGVRNP----------QQ-----------------HIT-SQPQVALQ-QP------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>X.maculatus/390-553 ENSXMAG00000003753 ENSXMAP00000003775 M3ZNI2 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP XMACU
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QAQN
+RA------------AYY-------P---AAGQM--AQL-RP--------------------S-P--RW-TTQ
+----GVRPQ----HF-QNMTG--AM--RAS-APR--------PQTFSTMRPTN----QVPRMMSAQRV----
+--------------------------------AAQTVAPR------PPAAATAT-TAPVRGVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HIT-SQPQVNLQ-QP------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>O.niloticus/390-553 ENSONIG00000002717 ENSONIP00000003406 I3J3G6 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP ONILO
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQAAP----------------------PS-----GYF----MA-------------------AI-P-QAQN
+RA------------AYY-------P---AAGQM--AQL-RP--------------------G-P--RW-TTQ
+----NVRPQ----HF-QNMSG--GI--RPS-GPR--------PQTFSTVRPSS----QVPRMMTTQRV----
+--------------------------------GTQTMGPR------PATAAAAA-ATPVRGVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HMN-TQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>C.variabilis/423-554 gi|552814484|ref|XP_005844200.1| hypothetical protein CHLNCDRAFT_59028 [Chlorella variabilis] >gi|307103841|gb|EFN52098.1| hypothetical protein CHLNCDRAFT_59028 [Chlorella variabilis]
+G------PMA---P---GMF---------------------------------------PP--GG-------
+---APPM---------------FY----PPGPR--GPM----GP--------------------------GM
+MN------------PYMM----------------AGPGRGM--------------------PG---------
+------------------RGPRG-----------MMM-----------PPQMMGPGG-------ARS-----
+--G----------------------------RGGRGGRG-G---RGEFMGRGRGPA-------SGR------
+-----GGRGRGEGIPAP-----PV-------------------GAPAAPA---------------AAVTPTE
+GG-Q---LT----AAM-LAAA----PA
+>A.gambiae/383-564 AGAP011092-PA Q7QH99 AGAP011092-PA IPR000504,IPR002004 EOG7RC9PC AGAMB
+M------QHI---G---QVY--------------------------------------QQS--GS-------
+-YFMPTI-------AQPQR---FY----GPQV---APV-RT-AP--R-------W--------------SAN
+AQ------------MRPN-----AGNQNVAANAPAGGYPAM------------------TAAHV--------
+----ANNQYRQAGNVRGANQQAP--------NAQSAQ-----------ANSAAMRNA-------ARP-----
+ITG--------QQT-----------------AANMQTRP-----VAPQLAAG-------QA--RTP------
+-----NYKFT-QSMRNP-----QV-----------------PQPVPIPAQ-----PVA-------QQAVIVK
+GQ-EP--LT----TSM-LAAA----QP
+>C.savignyi/393-551 tr|H2YP45|H2YP45_CIOSA Uncharacterized protein (Fragment) OS=Ciona savignyi GN=Csa.11067 PE=4 SV=1
+M-ATPN-QIM---G---QPF--------------------------------------QTA--GG--AS--G
+-YFMPFQ--------GAQR---TY-------MQ--SQIIRA-TP--R-------W-----------------
+------------------------------QHNPQGSFQMA-------------------------------
+------GDMRT-------VGPRA-----PTAPA-------------------------------IRP-----
+MTT------------------------------PVGARG-VIHPQHQMMHQQAMPQ---VTTFNTP------
+-----AFKYN-QSVRNPTMAGYPQ------------------SGQPQSQQ--QTDPAM-------QQAVHVQ
+GQ-EP--LT----SSM-LAAA----QP
+>M.lucifugus/389-554 ENSMLUG00000012245 ENSMLUP00000011161 G1PK59 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP MLUCI
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVAQ--------
+------YKYA-PGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>C.floridanus/393-562 CFLO15617-PA IPR000504,IPR002004 EOG7RC9PC CFLOR
+M------QQM---G---QIF---------------------------------------QP--GN--AG--S
+-YFVPTL----P-QP--QR---FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGNSGFASM--------------------QSA--------
+-------PFR-----A--APRAP-----A-AQA-GAL-----------RNS---MSA--------RP-----
+ITG--------QQAV-G--------------GANMQSRS-M---AGPAVGVS--PG---QS--RPP------
+-----NYKYT-ANMRNP-----PQ----------------TAMALPAPSG--P--S-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>D.erecta/385-566 FBpp0140392 B3NLP7 GG21846 IPR000504,IPR002004 EOG7RC9PC DEREC
+M------QQL---G---QIF---------------------------------------QP--NT--ASG-G
+-FLVPTF----Q-SN--QR---FF----GSQVA--TQM-RN-TP--R-------W--------V------PQ
+VR------------PPAAVQGVQAGAA------AAGGFQGT--------------------AGA--------
+----VPTQFRSAAAGA--RGAQP-------QVQ-GTH---AAA----AAANNMRNTG-------ARA-----
+ITG--------QQT-AAP-------------NMQIPGAQ-I---AG--------GA---QQ--RTS------
+-----NYKYT-SNMRNP-----PA--------------------QQLHQT--Q--P-I-------PQQLQGK
+NS-EK--LI----ASL-LANA----KP
+>O.latipes/391-555 tr|H2LBS6|H2LBS6_ORYLA Uncharacterized protein OS=Oryzias latipes GN=LOC101163762 PE=4 SV=1
+A-V-PN-PVL---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QAQNRAA-YY----SANQL--AQL-RP-SP--R-------W--------A-----TQG
+VR------------PQH--------------------FQNI--------------------QN---------
+-------AMR-----P--SAPRP-----Q-TFN-AIR-----------ASTATNTQV-------PRM-----
+MAS--------QRM------------P----TQALSQRP-A---AA-SAT-T--AP---VR--AMP------
+-----QYKYA-PGVRNP-----QQ----------------HMASQQQVPM--P--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>H.magnipapillata/391-556 gi|221121498|ref|XP_002156904.1| IPR003954,IPR002004 IPR000504 EOG7RV9FP HMAGN
+-------RY------------------------------------------------NASG--TM-------
+-PQAGYS------------------FQAGQP----GFY----IP-------------------TV----PTN
+QR------------PFI-----------TQ-SV--NQITR-----------------------P--RW-QSQ
+A------------PV-QQIPA------NTQYASH-----------VTQIRAGAA--PPRPRHQGAPNVARRE
+-----------------------------PAPYQPGMGTR-----TMPSQQVPIRPNVPAVAQQRT------
+-----AYKYN-PNTRNQ----------YP-----------------AGQ-MIGQPDQA---------AAIIQ
+GP-DQ--LT----STI-LATA----TP
+>A.cephalotes/393-562 ACEP20789-PA IPR000504,IPR002004 EOG7RC9PC ACEPH
+M------QQM---G---QIF---------------------------------------QP--SN--AG--S
+-YFVPTL----P-QP--QR---FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGTSGFASM--------------------QAA--------
+-------PFR-----T--APRAP-----A-AQA-GAL-----------RNS---MSA--------RP-----
+ITG--------QQTV-G--------------GANMQSRT-M---AGPAVGVS--PG---QS--RPP------
+-----NYKYT-ANMRNP-----PQ----------------TAMAIPAPSG--P--S-V-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>H.sapiens/391-555 PABP1_HUMAN/1-636 sp|P11940|PABP1_HUMAN/1-636 Polyadenylate-binding protein 1 OS=Homo sapiens GN=PABPC1 PE=1 SV=2
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>P.abelii/391-555 sp|Q5R8F7|PABP1_PONAB Polyadenylate-binding protein 1 OS=Pongo abelii GN=PABPC1 PE=2 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>M.mulatta/391-555 tr|F7BM39|F7BM39_MACMU Polyadenylate-binding protein 1 OS=Macaca mulatta GN=PABPC3 PE=2 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>P.alecto/391-555 tr|L5KAR8|L5KAR8_PTEAL Polyadenylate-binding protein 1 OS=Pteropus alecto GN=PAL_GLEAN10021468 PE=4 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>P.vampyrus/390-555 ENSPVAG00000016640 ENSPVAP00000015704 IPR003954,IPR002004 IPR000504 EOG7RV9FP PVAMP
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>O.princeps/390-555 ENSOPRG00000009667 ENSOPRP00000008858 IPR000504,IPR002004 EOG7RV9FP OPRIN
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>A.melanoleuca/390-555 ENSAMEG00000000348 ENSAMEP00000000396 G1L0J4 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP AMELA
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>O.cuniculus/390-555 ENSOCUG00000004354 ENSOCUP00000003762 G1SLM0 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP OCUNI
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>O.orca/390-555 gene27158 1469763 IPR003954,IPR002004 IPR000504 EOG7RV9FP OORCA
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>O.anatinus/391-555 gi|620975077|ref|XP_007668124.1| PREDICTED: polyadenylate-binding protein 1 [Ornithorhynchus anatinus]
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PASQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PS---------
+-------AIR-----P--AAPRP-----P--FG-TMR-----------PAS---TQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>E.edwardii/391-555 gi|585700665|ref|XP_006897228.1|/1-636 PREDICTED: polyadenylate-binding protein 1 [Elephantulus edwardii]
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-S---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>P.anubis/390-555 gene27844 15444107 IPR003954,IPR002004 IPR000504 EOG7RV9FP PANUB
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>T.manatus/390-555 gene4643 1777804 IPR003954,IPR002004 IPR000504 EOG7RV9FP TMANA
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>R.norvegicus/391-555 sp|Q9EPH8|PABP1_RAT Polyadenylate-binding protein 1 OS=Rattus norvegicus GN=Pabpc1 PE=1 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-ATAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>O.rosmarus/390-555 O.rosmarus_divergens gene20778 1081114 IPR003954,IPR002004 IPR000504 EOG7RV9FP OROSM
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAAAPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>N.leucogenys/390-555 ENSNLEG00000003142 ENSNLEP00000003888 G1QSH0 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP NLEUC
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>A.carolinensis/391-555 gi|327283838|ref|XP_003226647.1| PREDICTED: polyadenylate-binding protein 1 isoform X1 [Anolis carolinensis]
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PTSQL--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TGP------
+-----QYKYA-AGVRNP-----QQ----------------HLNTQPQVAM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>B.taurus/391-555 sp|P61286|PABP1_BOVIN Polyadenylate-binding protein 1 OS=Bos taurus GN=PABPC1 PE=2 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>M.musculus/391-555 sp|P29341|PABP1_MOUSE Polyadenylate-binding protein 1 OS=Mus musculus GN=Pabpc1 PE=1 SV=2
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>S.scrofa/391-555 tr|F2Z557|F2Z557_PIG Uncharacterized protein OS=Sus scrofa GN=PABPC1 PE=4 SV=1
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----PPSQI--AQL-RP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-AAAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNAQPQVTM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>C.familiaris/390-555 ENSCAFG00000000567 ENSCAFP00000039955 J9P326 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG7RV9FP CFAMI
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>W.sebi/419-561 gi|588256176|ref|XP_006957264.1| polyadenylate binding protein [Wallemia sebi CBS 633.66]
+L------QHQAAAGVPISGF---------------------------------------MP--GA--PM---
+-YYQPP-----PGAYPGGRS--MY----GQPGF--APP----RP--R----------------------GYP
+AG------------QQ---------------------VPGM-------------------------------
+-------PIPS----P--YGPPP-----QGYMPANYR-----------PARPARANG---------------
+-------------------------------AQVQGGSP------------------------TAN------
+-----NVRPA-VPASGPRPAGVPV--------------------RPAQGA---------------AKPAKQE
+AG-GP--LS----ASV-LANA----PP
+>L.chalumnae/390-556 ENSLACG00000004395 ENSLACP00000004943 H3A5M2 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP LCHAL
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QAQN
+RA------------AYY-------P---TS-QL--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPS--AI--RQT-APR--------PPAFSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTATQTMGPR--P---TAAA-AAAASGVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVAMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>P.humanus/393-556 PHUM617090-PA E0W4B6 Polyadenylate-binding protein, putative;  IPR000504,IPR002004 EOG7RC9PC PHUMA
+M------QQI---G--QPVF---------------------------------------QP--SS--GG---
+-YFVPTI----P--QPPQR---FF----GPAQM--AQI-RTATT--R-------W--------------PTQ
+PQ------------SRPG------------TQQPQTAYPAI--------------------PG---------
+-------PFR--------PGPRP-----Q-AAQPALR-----------------SIS-------ARP-----
+ITG----------------------------GGPMQTQI--------PPRAPMPPTVSVNAAQRPT------
+-----NYKYT-ANMRNP-----PQ-------------TLGHVAHQPQVQQ-----------------AVHVQ
+GQ-EP--LT----TTM-LADA----PL
+>G.gallus/391-556 gi|71896197|ref|NP_001026768.1| polyadenylate-binding protein 1 [Gallus gallus]
+A-V-PN-PVI---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----HTNQL--AQLARP-SP--R-------W--------T-----AQG
+AR------------PHP--------------------FQNM--------------------PG---------
+-------AIR-----P--AAPRP-----P--FS-TMR-----------PAS---SQV-------PRV-----
+MST--------QRV---------ANTS----TQTMGPRP-A---AA-ATAAT--PA---VR--TVP------
+-----QYKYA-AGVRNP-----QQ----------------HLNTQPQVAM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>T.guttata/390-556 ENSTGUG00000012067 ENSTGUP00000012437 H0ZPA7 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP TGUTT
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---TN-QL--AQLARP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQRV----
+-----------------------------ANTSTQTMGPR--P---AAAA-TAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-TQPQVAMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>T.nigroviridis/390-557 ENSTNIG00000009153 ENSTNIP00000012014 H3CUT0 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP TNIGR
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MT-------------------AI-P-QTQN
+RG------------AYY------PA---AG-QM--AQL-RP--------------------S-P--RW-PTQ
+----GVRPQ----HF-QNMQS--AM--RSS-APR--------PQMFGSMRPS----SQLPRMTSSQRVD---
+-----------------------------FS-ATQAMGPR--A---ATTA-PSVTANPVRGVSQ--------
+------YKYA-TGVRNT----------QQ-----------------HVN-AQPQVTVQ-QP------AVVVQ
+GQ-EP--LT----TSM-LAAA----PL
+>C.orthopsilosis/442-560 C.orthopsilosis_strain_90-125 H8X0H4 H8X0H4_CANO9 H8X0H4 Poly(A)-binding protein IPR000504,IPR002004 EOG706125 CANO9
+M------QNA---A-AA----------------------------------------AGFP--GQ-------
+-FM--PP---------------MY-YG-----QQ-GFF----PP-------------------GG----RGN
+A-------------PFP--GP--NPQM---------MMRRG--------------------Q-P-GQ-----
+--PFPEQWPRP--GG-PNGQPVP----VYGI-----------------------------------------
+--------------------------------------PPQFPDQRAQ--QQQQQQ---QQRGYYP------
+----------------------------------------------GQAGVK--------------------
+VP-AK--DL----AAI-ISSV--P-PE
+>D.willistoni/385-569 FBpp0248795 B4MNW2 GK19652 IPR000504,IPR002004 EOG7RC9PC DWILL
+M------QQL---G---QIF---------------------------------------QP--NT--TG--G
+-FYVPTM----A-PG--QR---FF----SPQIA--TQM-RN-AP--R-------W--------A------SQ
+VR------------PAATVQSVQAGAA-----AAAGGFQGA--------------------AGA--------
+----VPAQFRQAAAGA--RGAQP-----P-QVQ-GTH-AAAAA----AAANNMRNSG-------ARA-----
+ITG--------QQSVAAP-------------NMQIAGAQ-I---AG--------GA---PQ--RAP------
+-----SYKYT-ANMRNP-----PV--------------------QQMQQA--Q--P-M-------P-QLQGK
+NP-EK--LI----ASL-LANA----KP
+>D.ananassae/385-570 FBpp0115844 B3MH48 GF12652 IPR000504,IPR002004 EOG7RC9PC DANAN
+M------QQL---G---QIF---------------------------------------PP--NA--AG--G
+-FFVPTM----P-PN--QR---FF----GPQMT--TPM-RN-TP--R-------W--------A------TP
+VR------------PAATVQSVQAGAA----AAAAGGFQGA--------------------AGA--------
+----VPTQFRSAAAGA--RGGQS-----Q-QVQ-GTH--AAAA----AAANNMRNTG-------ARA-----
+ITG--------QQTVAAP-------------NMQIAGAQ-I---AG--------GA---QQ--RAS------
+-----NYKYT-SNMRNP-----PV--------------------QQMPQA--Q--P-M-------PPQLQGK
+NS-EK--LI----ASL-LANA----KP
+>T.rubripes/391-559 ENSTRUT00000029379 peptide: ENSTRUP00000029262 pep:KNOWN_BY_PROJECTION_protein_coding
+A-V-PN-PVL---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QTQNRAA-YY----SANQL--AQL-RP-SP--R-------W--------T-----TQG
+VR------------PQH--------------------FQNM--------------------PG---------
+-------AMR-----P--SAPRP-----Q-ALN-AIR-----------PTAAGNAQV-------PRM-----
+MAS--------QRM---------LCSA----AQTLGQRA-A---GA-STTAA--AP---VR--TMP------
+-----QYKYA-AGVRNP-----QQ----------------HMASQPQVPM--Q--Q-P---------AVLVQ
+GQ-EP--LT----ASM-LASA----PP
+>D.pseudoobscura/385-571 FBpp0277751 Q290N0 GA18673 IPR000504,IPR002004 EOG7RC9PC DPSEU
+M------QQL---G---QMF---------------------------------------QP--NT--TG--G
+-FFVPTI----P-PS--QR---FF----GPQMT--TQM-RN-AP--R-------W--------A------PQ
+VR------------PAATVQSVQAGAA----AAAAGGFQGA--------------------AGA--------
+----VPTQFRSAAAGA--RGAQP-----Q-QVQ-GTH-AAAAA----AAANNMRNTG-------ARA-----
+ITG--------QQTAAAP-------------NLQIAGAQ-I---AG--------GA---QQ--RAP------
+-----SYKYT-SNMRNP-----PV--------------------QQMQQA--Q--P-M-------PQQLQGK
+NS-EK--LI----ASL-LANA----NP
+>D.persimilis/385-571 FBpp0175655 B4GBL9 GL11548 IPR000504,IPR002004 EOG7RC9PC DPERS
+M------QQL---G---QMF---------------------------------------QP--NT--TG--G
+-FFVPTI----P-PS--QR---FF----GPQMT--TQM-RN-AP--R-------W--------A------PQ
+VR------------PAATVQSVQAGAA----AAAAGGFQGA--------------------AGA--------
+----VPTQFRSAAAGA--RGAQP-----Q-QVQ-GTH-AAAAA----AAANNMRNTG-------ARA-----
+ITG--------QQTAAAP-------------NLQIAGAQ-I---AG--------GA---QQ--RAP------
+-----SYKYT-SNMRNP-----PV--------------------QQMQQA--Q--P-M-------PQQLQGK
+NS-EK--LI----ASL-LANA----NP
+>A.stephensi/392-573 ASTM006536-PA IPR003954,IPR002004 IPR000504 EOG7RC9PC ASTEP
+M------QQI---G---QVY--------------------------------------QQS--GS-------
+-YFMPTL-------AQPQR---FF----GPQV---APV-RT-AP--R-------W--------------SAS
+AQ------------IRPN-----AGNQNVAANAPAGGYPAI------------------AAAHV--------
+----ANNQYRQAGNVRGANQQAP-------NAQ-SAQ-----------ASSAAMRNA-------ARP-----
+ITG--------QQT-----------------AANMQTRP-----VAPQLAAG-------QT--RAQ------
+-----NYKFT-QAMRNP-----QI-----------------PQPVPIQAQ-----PVA-------QQAVIVK
+GQ-EP--LT----ASM-LAAA----QP
+>L.africana/400-563 ENSLAFG00000013994 ENSLAFP00000018594 G3TSN6 Uncharacterized protein IPR000504,IPR002004 EOG7RV9FP LAFRI
+-------RAV---P-------------------------------------------NPVI--NP-------
+-YQPAP----------------------PS-----GYF----MA-------------------AI-P-QTQN
+RA------------AYY-------P---PS-QI--AQL-RP--------------------S-P--RW-TAQ
+----GARPH----PF-QNMPG--AI--RPA-APR--------PP-FSTMRPAS---SQVPRVMSTQ------
+-----------------------------PNTSTQTMGPR--P---AAAA-AAATPAVR-TVPQ--------
+------YKYA-AGVRNP----------QQ-----------------HLN-AQPQVTMQ-QP------AVHVQ
+GQ-EP--LT----ASM-LASA----PP
+>D.virilis/385-576 FBpp0236088 B4LKW8 GJ21671 IPR000504,IPR002004 EOG7RC9PC DVIRI
+M------QQL---G---QLF---------------------------------------QP--NT--AS--G
+-FFVPTM----A-PS--QR---FF----GPQMT--TQM-RS-TP--R-------W--------A------QQ
+MR------------PATAVQSVQAGAASAAASAAAGGFQGA--------------------AGA--------
+----VPTQFRQSGAGA--RGAQP-----Q-QVQ-GTHAAAAAA----AAANNMRSSG-------ARA-----
+ITG--------QQSVAAP-------------NMQIAGAQ-I---AG--------GA---QQ--RAA------
+-----SYKYT-ANMRNP-----PV--------------------QQMQQA--Q--P-M-------PQQLQGK
+NQ-EK--LI----ASL-LANA----KP
+>D.mojavensis/385-576 FBpp0167871 B4KPT3 GI18654 IPR000504,IPR002004 EOG7RC9PC DMOJA
+M------QQL---G---QLF---------------------------------------PP--NT--AG--G
+-FFVPTM----T-PS--QR---FF----GPQIT--TPM-RS-TP--R-------W--------A-----QQQ
+MR------------PATAVQSVQAGAASAAGAAAVGGFQGA--------------------AGA--------
+----VPTQFRQSGAGA--RGTQP-------QVQ-GTHAAAAAA----AAANNMRSSG-------ARA-----
+ITG--------QQSVAAP-------------NMQIAGAQ-I---AG--------GA---QQ--RAA------
+-----SYKYT-SNMRNP-----PV--------------------QQMQQA--Q--P-L-------PSQLQGK
+NQ-EK--LI----ASL-LANA----KP
+>G.morhua/391-565 ENSGMOT00000014751 peptide: ENSGMOP00000014381 pep:KNOWN_BY_PROJECTION_protein_coding
+A-V-PN-PVL---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QAQNRAA-YY----SANQL--AQL-RP-SP--R-------W--------A-----TQG
+VR------------PQH--------------------FQNM--------------------PN---------
+-------AMR-----P--SAPRP-----Q-TFN-AMR-----------PTT---AQV-------PRM-----
+MTS--------QRMQVSVRSVSFLSPA----TQALGQRP-A---GA-SAAGA--AP---VR--AMP------
+-----QYKYA-PGVRNP-----QQ----------------HMASQPQIPM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>D.grimshawi/385-576 FBpp0154958 B4J5I0 GH21052 IPR000504,IPR002004 EOG7RC9PC DGRIM
+M------QQL---G---QLF---------------------------------------QP--NA--AS--G
+-FFVPTM----A-PS--QR---FF----GPQMT--PQM-RN-TP--R-------W--------A------QQ
+IR------------PATAVQSVQAGAASAGASAAAGGFQGA--------------------AGA--------
+----VPTQFRQSGTGA--RGAQP-----Q-QVQ-GTHAAAAAA----AAASNMRSSG-------ARA-----
+ITG--------QQSVAAP-------------NMQIAGAQ-I---AG--------GA---PQ--RTT------
+-----TYKYT-ANMRNP-----PV--------------------QQMQQA--Q--P-M-------PQQLQGK
+NQ-EK--LI----ASL-LANA----KP
+>A.darlingi/392-575 ADAR004412-PA IPR000504,IPR002004 EOG7RC9PC ADARL
+M------QHI---G---QVY--------------------------------------QQS--GS-------
+-YFMPTI-------AQPQR---FY----GPQV---AQV-RT-AP--R-------W--------------SAN
+AQ------------MRPN-----AANQSVAANAPAGAYQAM-----------------SAAAHA--------
+----ANNQYRQAGNVR--GGANQ-----QAQNAQSAQ-----------ATSAAMRNS-------ARP-----
+ITG--------QQP-----------------GANMQTRP-----VAPQMTAA-------QP--RPQ------
+-----SYKYT-ANMRNP-----QV-----------------PQQVPIPLQQVN------------QQAVIVK
+GQ-EP--LT----ASM-LAAA----QP
+>G.aculeatus/391-566 ENSGACT00000004711 peptide: ENSGACP00000004697 pep:KNOWN_BY_PROJECTION_protein_coding poly A binding protein, cytoplasmic 1 a [Source:ZFIN;Acc:ZDB-GENE-030131-3238]
+A-V-PN-PVL---N----PY---------------------------------------QP--AP--PS--G
+-YFMAAI----P--QAQNRAA-YY----SANQL--AQL-RP-SP--R-------W--------A-----TQG
+VR------------PQH--------------------FQNM--------------------PN---------
+-------AMR-----P--SAPRP-----Q-AFN-TIR-----------PTTTPNAQV-------PRM-----
+MAS--------QRMQTAFKNTSS-PPA----TQALGQRP-T---GA-SAT-A--AP---VR--AMP------
+-----QYKYA-AGVRNP-----QQ----------------HMASQPQVNM--Q--Q-P---------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>C.gigas/397-571 gi|405977322|gb|EKC41780.1|/1-646 Polyadenylate-binding protein 4 [Crassostrea gigas]
+M-QG---QQI---GQVSQMF---------------------------------------QP--GS--AG---
+-YFVPTM----P-----QAQRTYF----TPNNM--PAM-RS-NP--R-------W--------------QTT
+VR------------PTGQ---------------PGSGFQTM--------------------PGA--------
+---------------PQIRQQRP---TGQTNVRAGVS---------------------------ARP-----
+ITGQSGTPNAQQRMPV---------------NQQVGGRP-----QGGQPTVPAAAN-------RQQ------
+-----GYKSY-GGGQMM-----KQ--------------------QPGQTPGMQ--QAP-------PQAVIVQ
+GQ-DP--LT----ATM-LATA----PP
+>C.elegans/415-579 Q17350_CAEEL/1-646 tr|Q17350|Q17350_CAEEL/1-646 Polyadenylate-binding protein OS=Caenorhabditis elegans PE=2 SV=1
+M-HG---NVP---G--AAMY--------------------------------------NPT--QP-GPG---
+-YYVANP----M--QQQRN---FA----GGQQM----V-RP-GG--R-------W--------G-----MQN
+QY------------PVQN---------QYMMAQGPGVYQNR--------------------MGR--------
+----PQNQQG--------GPRGP-----P-QQY-------------------------------NQV-----
+AQG----------------------------GVRMQGPP-RTQNPGVQQQNVPRPPQQQQQQRPAP------
+-----------TGPKAP-----PQ---------------------PYQAY-----QQR-------PQGIVIG
+GQ-EP--LT----SAM-LAAA----AP
+>C.tenuis/432-573 C.tenuis_strain_ATCC_10573 G3BDG1 G3BDG1_CANTC G3BDG1 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 CANTC
+M------QNA---A-AAAAAAG-----------------------------------GAIP--GQ-------
+-FMN--P---------------MF-YG----QQP-GFF----PP-------------------PG----ANG
+GRPNGANGAG----PNA--GPNANPQM-----MMAAAAAAA--------------------R-G-GQI-PP-
+----PQAGAGW--GRPNPNGQQI--PPVYGM--------PPVYQNGPNGQPR--------------------
+--------------------------------------GAPAPGMYPP--N--GRP----------------
+------------------------------------------------------------------------
+TK-AR--DL----AAI-LSSV--P-PE
+>U.hordei/425-569 U.hordei_strain_Uh4875-4 I2FWX4 I2FWX4_USTH4 I2FWX4 Probable PAB1-mRNA polyadenylate-binding protein IPR003954,IPR002004 IPR000504 EOG706125 USTH4
+L------QQQ---A-AA----------------------------------------QGMG-----------
+--YPGPG---------------MY-YPQP------GAF----PG-------------------QP----GGM
+----------VPRPRYA--PAGMMPQG-------MPMAPYG--------------------Q-P-GQF----
+----PAGMMPQ--GY-RPARPPRGAPNAAGG----------------PAPPAGA------------------
+--------------------------------------RPPAGVNGAP--RPAGQP---VPGQPMP------
+---------------------------------------RGPG---ARPAGRPQEVA--------------G
+QP-GT--LT----AAA-LAKA--S-PE
+>M.murinus/378-570 ENSMICG00000016633 ENSMICP00000015164 IPR003954,IPR002004 IPR000504 EOG7RV9FP MMURI
+-------RAL---PA------------------------------------------NAIL--NQ-------
+-FQPA-----------------------AG-----GYF----VP-------------------AV-P-QAQG
+RP------------PYY-------T---PN-QL--AQM-RP--------------------N-P--RW-QQ-
+----GGRPQ----GF-QGMPS--AI--RQS-GPR--------PT-LRHLAPTGN--APASRGLPTTTQRVGS
+ECPDRLAMDFGGAGAAQQGLTDSCKSGG-VPTAVQNLAPR-------AAV-TAAAAAPR-AVAP--------
+------YKYA-SSVRSP----------HP-----------------AIQ-P---LQAP-QP------AVHVQ
+GQ-EP--LT----ASM-LAAA----PP
+>C.parapsilosis/444-571 C.parapsilosis_strain_CDC_317 G8B8Q0 G8B8Q0_CANPC G8B8Q0 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 CANPC
+M------QNA---A-AA----------------------------------------GGFP--GQ-------
+-FM--PP---------------MY-YG-----QQ-GFF----PP-------------------GG----RGN
+AA------------PFP--GP--NPQM---------MMRRG--------------------Q-P-GQ-----
+--PFPEQWPRP--G--PNGQPVP----VYGI-----------------------------------------
+--------------------------------------PPQFQDQRAQ--QQQQQQ---QQPQQPQ------
+-----------QQQQRG----------YY----------PGQA--------------------------GVK
+VP-AK--EL----AAI-ISSV--P-PE
+>S.reilianum/427-571 S.reilianum_strain_SRZ2 E7A2X3 E7A2X3_SPORE E7A2X3 Probable PAB1-mRNA polyadenylate-binding protein IPR000504,IPR002004 EOG706125 SPORE
+L------QQQ---A-AA----------------------------------------QGMG-----------
+--YPGPG---------------MY-YPQP------GAF----PG-------------------QP----GGM
+----------MPRPRYA------PAGM---MPQGMPMAPYG--------------------Q-P-GQF----
+----PAGMMPQGYRPARPPRGAP-------------------NAAGGPAPPAGA------------------
+--------------------------------------RPPAGVNGAP--RPAGQP---VPGQPMP------
+----------------------------------------------RGPAARPAGRPQ---------GEAAG
+QP-GA--LT----AAA-LAKA----SP
+>L.longipalpis/384-570 LLOTMP005451-PA IPR003954,IPR002004 IPR000504 EOG7RC9PC LLONG
+M------QQM---G---QLY---------------------------------------QP--SG-AAG---
+-YFVPSI----P---PTQR---FY----GPQM---TQL-RT-TP--R-------W--------A-----TQP
+AI------------RQSG-GVQNANSGAVAVGVPAAGYPNL--S-----------------SGA--------
+----GGAQYRPGGGAA--GVRAA-----Q-QAGQSAQ-----------NAQASLRNV-------ARP-----
+ITG--------QQNA----------------AGAIQGRQ-I---AAPVANTG-----------RTG------
+-----NYKYT-TNMRNP-----QQ----------------QLVSLGAAQP-------V-------QQAVHVK
+GQ-EP--LT----ASM-LASA----LP
+>U.maydis/427-568 sp|Q4P8R9|PABP_USTMA/1-651 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Ustilago maydis (strain 521 / FGSC 9021) GN=PAB1 PE=3 SV=1
+LQQQAAAQGM---G---------------------------------------------YP--GP------G
+MYYPQPG---------------AF-----PGQP--GGM-VP-RP--R-------Y---------------AP
+AG------------MMPQ------------------GMPMA--------------------PYG--------
+----QPGQFPAGMMPQGYRPARP-----------------------------------------PRG-----
+-------------------------------APNAAGGP-----APPAGA-------------RPP------
+-----------TGVNGA-----PR-----------------PAGQPVPGQPMPRGPAA-------RPAGRPE
+AD-QPGALT----AAA-LAKA----SP
+>C.briggsae/415-584 gi|268566587|ref|XP_002639761.1|/1-651 C. briggsae CBR-PAB-1 protein [Caenorhabditis briggsae]
+M-H-TNVPGG---G----MY---------------------------------------SP--AQ--PGP-G
+-YYVANP----M-----QQQR-NFV--GGPQLA------RP-GG--R-------W---------G-PQNQYP
+VQ------------SQ------------YMMAQGPGVYQNR--------------------MG---------
+----RPQNQQ-----G--GPRGP-----P-QQY-SQV-----------AQGGVRMQG---P---PRV-----
+PN----------AGVQQQNVQRPPPQQ----LQQQQQRP-A-------------PS---GP--KAP------
+-----PQPYN----QQY-----QQ---------------------PRP------------------QGIVIG
+GQ-EP--LT----TAM-LSAA----AP
+>W.ciferrii/441-572 W.ciferrii_strain_F-60-10 K0KSV0 K0KSV0_WICCF K0KSV0 Polyadenylate-binding protein, cytoplasmic and nuclear IPR003954,IPR002004 IPR000504 EOG706125 WICCF
+L------QQA---A-AA----------------------------------------GGLP--GQ-------
+-FIPTPF---------------IY------GQQP-QFL----PP-------------------GA----RG-
+--------------PLP--N---QPFL------------IP--------------------R-P-GQG-LP-
+----PQAAGGQWVGG-RPGQPAYGLPQEFQQFPQG----------GRGGFR---------------------
+-------GGRGN--------------------------GPRNQGGRGP--APNAAP-IDPNAQPGA------
+------------------------------------------------------------------------
+GN-VA--QL----ASI-LPNV----PV
+>S.pombe/461-582 PABP_SCHPO/1-653 sp|P31209|PABP_SCHPO/1-653 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=pab1 PE=1 SV=2
+L-Q----QQV---A---------------------------------------------AA--AG-------
+---IPAV---------------QY----GAT----GPL--------I-------Y--------------GPG
+GY------------PIPA-------------AVNGRGMPMV--------------------PGH--------
+------------------NGPMP-------MYP-GMP-----------------------------------
+-------------------------------TQFPAGGP---------------------------------
+-----APGYPGMNARGP----VPA----------------QGRPMMMPGSVPSAGPAE-------AEAVPAV
+PG-MPERFT----AAD-LAAV----PE
+>S.kowalevskii/392-574 gi|291227649|ref|XP_002733794.1| IPR003954,IPR002004 IPR000504 EOG7RV9FP SKOWA
+L------PGQ-----------------------------------------------AQMG--QM-------
+-YQSNVS----------------------------AYF----PQ-------------------TV----PQT
+QR------------GFF------AA------PTQVAQV-RA--------------------S-P--RWPQSS
+----QPRPAQASAGF-QSMPNAAAAQFRAG-TPR---------TATSNVRPV----TPAGRGVPQ-------
+-----------------------------PPTAAQRVAGVMPGQQQAAAAAAAAAQRGVPSAQPRA------
+-----SYKFT-TTMRNP----------PP-----------------QIPNQQQSALSQ----QTPQQSVQVP
+GQ-EP--LT----SSM-LAAA----PP
+>B.malayi/402-587 gi|170579093|ref|XP_001894673.1|/1-655 polyadenylate-binding protein 1 [Brugia malayi]
+M-HNAG-SMP---G---TVY---------------------------------------TP--GT------G
+GFFVSST----L--QNQRA---FM----PTATIPGAQM-RGTTP--R-------W--------NTIGAAAGF
+GV------------QSP--------------------YMVQ--------------------SGG--------
+----YGQAGR--------GGTRP-----T-ASS-AAV-----------AMRAQQGQY-------GPG-----
+QTGVTRGGPQAQRLTAGSAMVQNQGTR----SQQMGGRQ-T------------QPGKPNQG--QMM------
+-----YSSYS-AITGRPGQ--VQS---------------------------------Q-------QNSIVIQ
+GQ-EP--LT----AHM-LAQA----LP
+>L.loa/402-587 gi|312067233|ref|XP_003136646.1|/1-655 hypothetical protein LOAG_01058 [Loa loa]
+M-HNAG-SMP---G---TVY---------------------------------------TP--GT------G
+GFFVSST----L----QNQRA-FM----PTATIPGAQM-RGTTP--R-------W--------NT-IGAAAG
+FG------------VQSP----------YMVQSGAYGQGGR--------------------GGT--------
+----RPTASSAAVAMRAQQGQYG-----P-AQA-GVTRGGPQA----QRMAAGGAMV-------QNQ-----
+GTR----------------------------SQQMGGRQ-A------------QPGKPSQG--QMM------
+-----YSSYS-AITGRP-----GQ-------------------------V--Q--S-Q-------QNSIVIQ
+GQ-EP--LT----AHM-LAQA----LP
+>S.purpuratus/409-578 SPU_015317gn SPU_015317tr H3IME8 Uncharacterized protein IPR000504,IPR002004 EOG6T4RNQ SPURP
+V-G----QQA---S--QQPV---------------------------------------NP--VY--PTM-A
+-YHYAAM----P-QA--QR-N-IF----PAGQL--AQV-R--HP--R-------W--------S-----QQP
+QQ------------ARTT---------------AQPNFQTI--------------------PGA--------
+----AGRQF------G--APRAG-----T-ATG-QVR-----------QPM---PAT-------RVP-----
+VQA--------APA-----------------GQRVGGM------GAPTQQQMRLGA---GA--QLS------
+-----AAKQY-PKFAVP-----RQ-----------------GMPGQMPAE--N--V-P-------VQALHVP
+GQ-EP--LT----SAM-LASA----LP
+>A.echinatior/415-584 AECH10224-PA IPR000504,IPR002004 EOG7RC9PC AECHI
+M------QQM---G---QIF--------------------------------------HQP--GN--AG--S
+-YFVPTL----P-QP--QR---FY----GPAQM--AQI-RA-TP--R-------W--------P-----AQP
+NQ------------VRPN------------AQTGNSGFASM--------------------QAA--------
+-------PFR-----A--APRAP-----A-AQA-GAL-----------RNN---MSA--------RP-----
+ITG--------LQAV-S--------------N-NMQSRS-M---AGPAVGVS--PG---QS--RPS------
+-----NYKYT-ANMRNP-----PQ----------------AAMALPTPSG--P--S-M-------QQAVHIQ
+GQ-EP--LT----ASM-LAAA----PP
+>M.occidentalis/395-569 776953 IPR003954,IPR002004 IPR000504 EOG7RC9PC MOCCI
+V------PF----G--QMPF--------------------------------------NHS--TP--TS---
+-FIVPAS----------MHPRAFF----ASGNV--ANNVRP--Q--R-------W--------------AGG
+QQ------------IRVS------------GQYAMAGGAPM--------------------ATA--------
+----AAANFQ--------RAPRP---TMQ-GQNAGVA-----------AARNATMSS-------TRP-----
+ITS------------------------------TIHGAA-----GSGTQSRNRVGVAPQQAPNSRP------
+-----TFKFT-NSVRNA-----QP-------------------STPAGAAPMN----A-------SNAVLVQ
+GQ-EP--LT----TQM-LAEA----CP
+>L.elongisporus/448-576 L.elongisporus_strain_ATCC_11503 PABP PABP_LODEL A5DW14 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 LODEL
+M------QNA---A-AA----------------------------------------GGLP--GQ-------
+-FM--PP---------------MF-YG-----QQ-GFF----PP-------------------NG----RGN
+A-------------PFP--GP--NPQM----------MMRG--------------------R-G-QPF----
+----PEQWPRP--G--PNGQPVP----VYGM-----------------------------------------
+--------------------------------------PPQFQDFNGQ--NMRPQQ---QQQQQQQ------
+---------Q-QQQQQQ----------QR-----------------GYYPNRPAGGN---------------
+VP-AK--DL----AAL-IANA----PL
+>S.japonicus/460-572 S.japonicus_strain_yFS275 B6K033 B6K033_SCHJY B6K033 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 SCHJY
+M------QQQ---V-AA----------------------------------------AGMS--AQ-------
+-FGIPGA---------------MY-YG-PG-----GYP----LP-------------------AG----AR-
+------------------------------------GVPMP--------------------H-P-NMM-PP-
+----NGKWPVD--GAAPQPGMVPVYPPGVA------------------------------------------
+--------------------------------------APNFPGYPRP--VVPSEQ---PAGQEAS------
+-----------------------------------------------------------------------N
+GA-VP--VP----AFD-MNAFSAETPE
+>T.cucumeris/431-592 tr|M5BM54|M5BM54_THACB Polyadenylate-binding protein, cytoplasmic and nuclear Short=PABP OS=Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) GN=pabp PE=4 SV=1
+I------QQA-------------------------------------------------PM--MG--PG---
+-YMQPQM---------------YY----GPGP---GGY----PP--QAGRGVMGY--------P-----QPG
+MM------------PPRG------------RYPPGQPMQGM--------------------PV---------
+-------PVPYAGGAP--PQGYP-----PQGYGRGAP-----------PNASQGA---------PRP-----
+-NG--------ANAAPP--------------PANAAPRP-----AGGAQSAA-----------SPA------
+-----------PNGSRP-------------------------AGTPAAAPPAA----P-------AGGLPST
+GL-PPLALP----LRAVLPPL----HP
+>M.globosa/460-593 M.globosa_strain_ATCC_MYA-4612 A8Q458 A8Q458_MALGO A8Q458 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 MALGO
+L------QQQ---QAAA----------------------------------------AAAA--QM-------
+-YPGAPG---------------MY-YPQPPAAAGMGQF----PG-------------------QV----RPQ
+Y----------------------APGI----MQGMPPMAGQ--------------------P-A-GPY--P-
+----PGQFPPA--GGMFPQGYRP--PRP-----------PRGAAAPPAGAPAGV------------------
+---------------------------------------PAGAG--AP--RTAAVP---AQPVQPA------
+------------------------------------------------------------------------
+QP-EV--LT----AAA-LANA--S-PE
+>C.neoformans/429-585 C.neoformans_var._grubii_serotype_A_strain_H99 J9VUR9 J9VUR9_CRYNH J9VUR9 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 CRYNH
+M------QYG---T--------------------------------------------GFPGMQG-------
+-YMGQP----------------MY-----------GYP----PM-------------------PG----YGQ
+P----------------------MPGM--------PPVRGP--------------------M-M-GYPGAPQ
+----NMMQSRP--RFNPNGQPLPGGVPAYGMPPQVPYPGAPGYPVRPGGAR---------------------
+--------------------------------------IPAAPNANGP--RNGGPS---PVGAPQG------
+-------------LPAG----------SMPRG--------------GQMPARPHEQA-----------APAP
+QA-GR--LD----AQS-LARA--A-PA
+>F.radiculosa/425-601 F.radiculosa_strain_TFFH_294 J4HZN9 J4HZN9_FIBRA J4HZN9 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 FIBRA
+M------QQA---A-A-----------------------------------------SGLA--GG-------
+-YINGP----------------MYYPPGPG-----GFP----PQ-------------------GG----RGM
+MG-------------YG------QPGM-------MPPRPRY--------------------A-P-NGQ-VP-
+--GM-PLPGPY--GQAPPPQPYPSMPGY----PRGAPRAPPAGRAPPPADAN--------------------
+--------------IPVNGAAPRPAGPPAAPVNRPAAGTPAAASRPQG--YKLNPQTRNAGAAGQV------
+----------------------------------------------PSPGGAPVPGA---------------
+EA-PG--IS----SAL-LANA--S-PM
+>P.carnosa/430-601 P.carnosa_strain_HHB-10118-sp K5W880 K5W880_PHACS K5W880 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 PHACS
+M------QQA---A-A-----------------------------------------AGMP---G-------
+-YMNGP----------------MYYPAGPG-----GFP----PQ-------------------GG----RGM
+MG-------------YG------QPGM-------MPPRPRY--------------------T-PNGQV----
+----PGMPLPPAPYGQPPAGPYP-----------GMAYGRGTPRPGPGGRPPAD------------------
+-----------------AVSGPRPAGPSVAPGNRPQAGAPPPSAARPQ---QPGRPQPARNGTAPG------
+----------------------------------------------QAPATPAALPAP---------AAAPA
+VP-AF--DT----STL-VNLS----PM
+>A.bisporus/423-605 A.bisporus_var._bisporus_strain_H97 K9HU53 K9HU53_AGABB K9HU53 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 AGABB
+M------QQA---A-A-----------------------------------------AGVP--GG-------
+-YINGP----------------MY-YP-PG-----PGF----PP-------------------QG----RGM
+MG-------------YG------QPGM-------MPPRIRY--------------------P-N-GQVPSM-
+----PPVPGPY--GQGPQPYGMP------GYPPRGAP--RPPVARGPGSSPTHPSVPMPRANGPAPNGGAAR
+-----------------------PAPQGAPTGSRAPPPGAPAPGRAPQ--PAYNKPQARPQGAPVT------
+----------------------------------------------AQPAAVPAPQQ--------------S
+GL-PN--LT----ADQ-LAAA--S-PM
+>C.gattii/429-585 C.gattii_serotype_B_strain_WM276 E6RAK3 E6RAK3_CRYGW E6RAK3 Polyadenylate-binding protein, putative IPR000504,IPR002004 EOG706125 CRYGW
+M------QYG---A-GF----------------------------------------PGM---QG-------
+-YMGQP----------------MY-----------GYP----PM-------------------PG----YGQ
+--------------P--------MPGM--------PPVRGP--------------------M-M-GYP-GA-
+--PQNMMQSRP--RFNPNGQPLPGGVPAYGMPPQVPYPGAPGYPVRPGGAR---------------------
+--------------------------------------IPAAPNANGP--RNGGPS---PVGAPQG------
+------LPAG-SIPRGG----------QM-----------------PARPHEQAAPA--------------P
+QA-GR--LD----AQS-LARA--A-PA
+>T.tonsurans/499-589 T.tonsurans_strain_CBS_112818 F2S4S0 F2S4S0_TRIT1 F2S4S0 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 TRIT1
+-----------------------------------------------------------LP--PE-------
+-WRN-PS---------------C---SLPS--SM-AHL----AS-------------------------KAS
+-S--------P---VLS--V---ECSLLVKLVWVMPGMPSG--------------------R-P-GQF--P-
+Q--FPGQQGGR-------------------------------------------------------------
+------------------------------------------------------------------------
+-----------------------------------------AP---GQGGIHAMKQP---------------
+-L-RS--II----LAV-FNAA--P-ES
+>C.subellipsoidea/417-603 gi|545370525|ref|XP_005649894.1| polyadenylate binding protein [Coccomyxa subellipsoidea C-169]
+PNAPGPVPMP---G----VF---------------------------------------PP--NA--VSFPQ
+QYFAPPTNAYGPGPQQRGGPQGPY---GGPGGAMYQHM----PPFAR---------------------GPQG
+AG------------PRG----------------PRGGYGPG--------------------PG---------
+-------PY---------GGPQN-----VVMVGPGGR-----------PHPGRGPRG-------PR------
+MNG----------------------------PMHGGPQG-----RGPRGPGPMHGG-------RGP------
+-------RGGPHAVPNG-----PN-----------------HAPPPPPPQPAQPQPVP-------TPSAVVP
+GQ-EGGNLT----TAM-LAAA----AP
+>C.cinerea/430-610 C.cinerea_strain_Okayama-7 A8NF86 A8NF86_COPC7 A8NF86 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 COPC7
+M------QQA---A-A-----------------------------------------AGLP--GS-------
+-YVNGP----------------LY-YP-PG-----PGF----PP-------------------QP----RGM
+MG-------------YP------QPGM-------LPPRPRY--------------------G-P-NGQ----
+----VPVPGPY--GQAPPPQGYG----MPPYGGQRPPRPQGGPRGGPGGSPTHPNAPIPRSNGPQNGAGRPP
+--------------------------------------AQGGPRGPGP--ANANRPGGAPRSGAPA------
+-----PAAAA-TPAKAP----------AA-----------------APAPASPGPAA---------------
+DV-PT--VT----AAQ-LAAA--A-PM
+>S.lacrymans/425-614 S.lacrymans_var._lacrymans_strain_S7.3 F8QEJ1 F8QEJ1_SERL3 F8QEJ1 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 SERL3
+M------QQA---A-A-----------------------------------------AGIP--GG-------
+-YINGP----------------MY-YP-PGP----GSF----PP-------------------QG----RNM
+MG-------------YG------QPGM-----------LPP--------------------R----------
+----PRYPAGN--GQVPGGMPIP----PYGQPPQSYGGMPGYPRGGAPRPP---------------------
+-------VARGPGSSPTNPNAPIPRANAPPSVNGAAARGGAPQGSVPP--N--RPP---PAGAPAP------
+------------GNRPP----------QGYKLNPQTRNAGAPP---VGQTSPAQAPA------------TQS
+EV-PT--LT----AGA-LANA--S-PM
+>P.jiroveci/447-599 P.jiroveci_strain_SE8 L0P802 L0P802_PNEJ8 L0P802 I WGS project CAKM00000000 data, strain SE8, contig 29 IPR003954,IPR002004 IPR000504 EOG706125 PNEJ8
+I------QQQ---A-AA----------------------------------------AGMS-PQY-------
+-GMPGAP---------------MF-YG-QG--PT-GFM----PA-------------------GP----MTD
+RG-------M----PFP------QPAM-----------VPS--------------------R-P--RW-VP-
+--QQSGQPNGQ--AI------------------------SQIYPGMSGYN-----AYLAIQGRSQR------
+---------SGQVPRPQGI--------------------PSRPMM-PM--A--MRP---LLGSTRM------
+---------------------------YR----------VGSN---TRNGTKDGIDVG--------------
+SD-DL--LT----AAS-LAAA--S-PE
+>I.scapularis/393-610 ISCW014211-PA B7QI53 Apoptosis-promoting RNA-binding protein TIA-1/TIAR, putative IPR000504,IPR002004 EOG7RC9PC ISCAP
+M-------QM---G---QMF---------------------------------------PP--GG--TG-VA
+NYFVPTM----PHHQTGQRS--YFPAALGPAQM------RA-TP--R-------W--------TGQQPQLRG
+AG------------PQGA---------GAGAQPQGAGFPTA-------------------------------
+------MPYQ--------RQPRPSLAAQPQRGSLGA----------------------------ARP-----
+ITGGQQAPPQQQQGAGGPQQAP---------PRVMGPRP-----TGMASQAAAGPR---------P------
+-----TYKYT-QAMRNP-----PQVTAVSAPVAAPFQVAAQQQQQQHQVAAAQAAAQQ---QASQQAAVHIQ
+GQ-EP--LT----ASM-LAEA----TP
+>T.asahii/438-584 T.asahii_var._asahii_strain_CBS_8904 K1VQN2 K1VQN2_TRIAC K1VQN2 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 TRIAC
+L------QYA---AANG----------------------------------------LGGP--QG-------
+-YMQ-AP---------------MY-YPPMGPYGG-PMM----PV-------------------RG----GVV
+--------------GYP--G---APPM-----------MGA--------------------R-P-GRY-PP-
+----SGQPGAP-----VPMGYMP----------------PGGAGGNYPGMPNYPVRPAGNARPPTAARPNGS
+--------------------------------------PSGAQQGLPR--G--QVP---ARPQGDG------
+----------------------------------------------AQAAA---------------------
+GQ-PR--LT----AQA-LARA--S-PG
+>C.gloeosporioides/457-609 C.gloeosporioides_strain_Nara_gc5 L2G5R8 L2G5R8_COLGN L2G5R8 Polyadenylate-binding protein IPR003954,IPR002004 IPR000504 EOG706125 COLGN
+L------AAA---A-------------------------------------------AGLP--QQ-------
+-YMQ-PP---------------VF-Y--AGGQQP--VF----PQ-------------------GG----RGM
+--------------PFP------QPGM------PMPAVQGG--------------------R-P-GQF-PG-
+--GY-PQQGGR--GV---PQQM---PPVYGM--------PGQFPPGAPYPNSGNPQFLAAIQQGGNQPGA--
+--------------------------------------GRGANPNGPR--NNAPFP---QGGRGAA------
+-------------------------------------------------------------------PAQDL
+NS-SS--LI----QQQ-LSSAAGN-PG
+>P.indica/494-622 P.indica_strain_DSM_11827 G4U2X7 G4U2X7_PIRID G4U2X7 Related to mRNA polyadenylate-binding protein PAB1 IPR000504,IPR002004 EOG706125 PIRID
+M------QQA---A-A-----------------------------------------AGLT---G-------
+-YINGP----------------MY-YGAP------GFP----AQ-------------------GG----RGY
+AG-------------YP-------PGM------TGPGRGGY--------------------R-GPMPV----
+----PPIPGYA--GQAPQPYGMN----------------------PYAPRP---------------------
+--------------------------------------GPGGPRG-GA--PTNGTP---RSGAGRG------
+--------------LPQ----------AA-----------------PATTAAPKTAT---------------
+KP-TE--LD----ISH-ITSA----PA
+>C.remanei/456-629 gi|308499747|ref|XP_003112059.1|/1-695 CRE-PAB-1 protein [Caenorhabditis remanei]
+M-HS---NVP---G--GGMY---------------------------------------NP--AQTGPG---
+-YYVANP-------MQQQR---NF--AGGPQIA------RPGGG--R-------W-------------GQQN
+QY------------PMQN---------QYMMAQGPGVYPNR--------------------MGR--------
+----PQNQQG--------GPRGP-----P-QQY-------------------------------SQV-----
+AQG----------------------------GVRMQGPPRAQNAGVQQQNIQRPPPQQQQQQQQQQ------
+-----QRPAP-SGPKAP-----PQ----------------PYSQQYQQQR---------------PQGIVIG
+GQ-EP--LT----SAM-LAAA----AP
+>G.zeae/441-616 G.zeae_strain_PH-1 I1RVX4 I1RVX4_GIBZE I1RVX4 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 GIBZE
+M------QQA---V-AH----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VY-FA-PG-QQP-GFM----PQ-------------------------GGR
+GV------------PFP------QGGM---------GMPQG--------------------R-P-GQF----
+--PYP-QQGGR--GG--VPQQMP--PNMYGM-PGQFP--PGY---GQPGTPQFMAAMQAQQAAL--------
+-------GGRG---------------------------APQGGRGGPQ--GMPGMP---PMAGNMP------
+------GFPP-NNNRQG----------GR----------GGPG---RNGNGPQGGRG------------ADA
+AG-LS--SL----QQQ-LASA--P-PP
+>M.larici-populina/438-631 M.larici-populina_strain_98AG31 F4S1R7 F4S1R7_MELLP F4S1R7 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 MELLP
+S------QQI---A-A-----------------------------------------AGIP--GA-------
+-PYGAPP-------------NQMY-YGGA------AAY----PP-------------------PG----RGM
+--------------AYP------PNGM----PAGMPPRPRY--------------------A-P--------
+----PGQMPPM--GMPGAPHYQP--PQGYPGYPAGDPAFPGADHAYPAGDPGYPAGGPAPAGSMRGMPG---
+-----------------------PPGGPAPAGFR----GPGGPNGPPI--GRNGMP---PAGGMRG------
+-------------APPQ----------SRDPAY------HQPSTLSGRATSHRAPEA---------------
+PQ-TG--LS----PAA-LAKA--S-PA
+>P.tritici-repentis/480-664 P.tritici-repentis_strain_Pt-1C-BFP B2VW87 B2VW87_PYRTR B2VW87 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 PYRTR
+M------QQQ---QQQQF---------------------------------------GGIP--QM-------
+-FIA------------------------PG-QQP-MMF----PA-------------------GG----RGQ
+M-------------PFP-------AGI--------PGQQGG--------------------R-G-AGF----
+PGGMPGQQGGR--GG-PNGQQMPPMYMPPGMAPGAFP-------------PAYMNQQYMQLAQAAQQAMGGR
+-------GGRGG--VPMAPMPGMPQ-------------VPMAGVPGMR--GGQGFP---PQGAGRG------
+--------GM-PQGRPG----------QS-----------------PMPNYPPGGRG-------------GP
+GG-AG--VD----MSA-LQGA--A-PG
+>T.urticae/397-636 tetur08g03180 IPR003954,IPR002004 IPR000504 EOG7RC9PC TURTI
+MPPIPNPASA---AAAAHPHAHHPHHHHPNLAPAAAMFPNHAAAMASIGALGNAGPQAGHQ--GAPQPG---
+-YYIPTM----APHQMQQRGS-YYQPQGGPSAP--GPQ-QARNP--R-------W-----------------
+-----------------------------------PGAQQM--------------------PRG--------
+----APQPYNQAL-----RARGP-----AMAAGQGPR-----------PTQVPTSSG----PAGSRP-----
+ITG------GAQSM-----------------PQGMGPRG-APRGVPPSSVRAANAG---QA--AMG------
+-----SYKFN-SQIRNP-----PP-----------------VQMAPQANMGAQQVQ-P---QSDVQSAVHVQ
+GQ-EP--LT----ASM-LANA----SE
+>P.graminis/465-645 P.graminis_f._sp._tritici_strain_CRL_75-36-700-3 H6QSB7 H6QSB7_PUCGT H6QSB7 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 PUCGT
+S------QQI---A-A-----------------------------------------AGIP--GA-------
+-PYGAPP-------------NPMY-FGGAA-----AYP----PH-------------------GG----RGM
+--------------MYP--PNGMPAGM--------PPRPRY--------------------A-P--------
+----PGQMAPM--GM-PGGAPYPPHPQDYPGYPVGGPVPPVGGMRGIPGPPAHL------------------
+-------GGPNPPNFRGGNGAPIPPMNGR---------GSAPSTNGPG--SMRGAP---PQSRDGY------
+-------------APSS----------LS-----------------GRAVSHRVSDI---------------
+AP-VG--LS----PAA-LAKA--S-PA
+>B.dendrobatidis/447-645 B.dendrobatidis_strain_JAM81 F4NTZ5 F4NTZ5_BATDJ F4NTZ5 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 BATDJ
+Q------QMM---P-------------------------------------------PGYP--GA-------
+-SIFYPP----------------------------GGV----PP-------------------QA----RG-
+--------------YFN--PQQAQQQM------------MA--------------------R-P-RWT-GP-
+--GQPPHMQQP--GF--PPQQMPPHMQQPGFPPQQQPYAIVPATPGARPPRQTRPA----------------
+-------GGRGQAIHHQGMQMPMIQQPGARPLAGYGQPGAAAGGVMPA-----NVA---ARGRGAG------
+------FKYA-PNVRNA----------PATGGAADAAGSATAT---GGAATPAPAAA---------------
+GR-PV--LN----AAT-LASM----PQ
+>S.japonicum/394-628 tr|Q5DA36|Q5DA36_SCHJA SJCHGC06322 protein OS=Schistosoma japonicum PE=2 SV=1
+A------PVA---S--MIPA---------------------------------------VP--GHAAPH--N
+-YFPPAF--------QAQR---FY----HPSS---AVL-SS-QP--R-------W--NRAAGIP-AQIGAIP
+NR------------PPVA-----------------GYYPGA--------------------PNP--------
+----AAITANQMAAFAQLRTPGV---NRP-MMPNGMSSMPTTPHLQTAAVFNQAANQ-------QRQ-----
+ATG--------RQGVVVPQVLGATTG-----GLNQRPTA-ASVVAGPPSANPTMRP---QVASQVP------
+-----RAVMH-SGMPNITNATTNV---------RFHQTARNVSAQPTLVPTGNTSTLL--------SPLGDQ
+GQ-----LT----ISA-LAQL----SE
+>S.mansoni/394-627 tr|G4VQ62|G4VQ62_SCHMA Putative polyadenylate binding protein OS=Schistosoma mansoni GN=Smp_024140.3 PE=4 SV=1
+N------PVA---S--MIPA---------------------------------------VP--GH-AAP--H
+SFFPPAF----Q---QTQR---FY----HPS----GAVLSS-QP--R-------W--NRAAGIP-AQIGGLP
+NR------------PPVA--------GYYPSAPNPAAITAN--------------------QMA--------
+----SFAQFRT----P--GVNRP-----M-VPN-GMSSIPSTHLQTAAVFNQTANQQ-------RQQ-----
+ASG--------RQGVVVPQVLGATAG-----GLNQRPTA-ASVVAGPPSVNPAMRVASQVPRAVMHSGMSNI
+TSTATNVRFH-QTARNV-----SA----------------QPTLVPAGSM-----STL-------LQPLGDQ
+GQ-----LT----ISA-LAQL----SE
+>P.chrysogenum/484-641 jgi|Pench1|27158|fgenesh1_pg.4_#_322
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+----PAV---------------FY----GAGQQ--GFM----PPGQR----------------GGMPFAPQG
+GM------------PMPN---------------MPGGRPQY--------------------PG---------
+-------PFPQGGRGMPPNQQLP-----P-NFQ-GM------------PMGMQAPGGIPNGMGYPMP-----
+-----------QAF-----------------GRGGGGRG--------------------VP--GMP------
+-----------MNMRGG-----PG----------------FGRGGPQMGRGRG------------QPAPGGQ
+PAGEP--AS----ANQALLAA----PP
+>E.nidulans/474-644 E.nidulans_strain_FGSC_A4 PABP PABP_EMENI Q5B630 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 EMENI
+Q------QQA---A-AA----------------------------------------AGMG--QA-------
+-YMA-PA---------------VF-YG-PG--QQ-GFI----PG-------------------------AQR
+GG--------M----FP--P---QPGM------MM-GMP-G--------------------R-P-GQY--P-
+G-PFPGQQGGR--GV-GPNQQIP--PNF-----QGLP--MGAMQ-GPG-IPNGM-GYP--MVQGQ--FGGG-
+-------RGRGQ--VP-G--------MGG--PMR----G-GYGG--GR--G--GVP---L--GGQM------
+--------------RPG----------QG--GRG-----QAVG---QP----GPETP---------------
+V--GV--LT----AQA-LSAA--P-PQ
+>C.militaris/487-659 C.militaris_strain_CM01 G3JGA7 G3JGA7_CORMM G3JGA7 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 CORMM
+M------QQA---A-AA----------------------------------------AGMS--QP-------
+-FMQ-PP---------------VF-YA---GQQP-GFV----PQ-------------------GG----RGI
+--------------PFP------QPGM---------GMTGV--------------------R-P-GQF--P-
+--GY-PQQGGR--GG---PQQIP--PNMYNMPNQFPP------QFGQPGTPQFMAAMQQAALG---------
+-------GGRGG-----------------------PQGGRGNAGMPPN--AVPGFP---PNNRQAM------
+--------GR-GGNRAG----------NN----------TNNV---NSANIQPVRAS---------------
+DN-GS--AL----QTQ-ISGA--P-PA
+>P.digitatum/483-647 P.digitatum_strain_PHI26 K9FNV8 K9FNV8_PEND2 K9FNV8 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 PEND2
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-FMQ-PA---------------VF-YG-AG--QQ-GFM----PP-------------------------GQR
+GG--------M---PFA--P---QGGM------PMPNMPAG--------------------R-P--QY--P-
+G-PFP--QGGR--GM-PPNQQLP--PNF-----QGMP--MG-MQ-APGGIPNGM-GYP--MPQA---FGRGG
+-------GGRG---VP-GM-----P---M--NMR---GGPGF----SR--G--GPQ---MG-RG--------
+----------------------------G--GRG-----QPAP---GGQPAGGEPAS---------------
+A------------NQA-LLAA--P-PA
+>B.bassiana/484-657 B.bassiana_strain_ARSEF_2860 J4ULE3 J4ULE3_BEAB2 J4ULE3 Polyadenylate-binding protein IPR003954,IPR002004 IPR000504 EOG706125 BEAB2
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-FMQ-PP---------------VF-Y--AAGQQP-GFI----PQ-------------------GG----RGM
+--------------PFP------QPGM---------GMPGG--------------------R-P-GQF--P-
+--GY-PQQGGR--GG---PQQMP--PNMYNMPGQFPP------QFGQPGTPQFMAAMQQAQQAALG------
+-------GGRGA-----------------------PQGGRGNAGMPPN--AVPGFP---PNNRQGG------
+-----------MGRGAN----------RG-----------------ANNANNSQQAA---------------
+RP-GD--NN----ISA-LQAQISGAPP
+>A.pullulans/488-647 Aurpu2p4_006465    (Aureobasidium pullulans ATCC62921) Polyadenylate-binding protein, cytoplasmic and nuclear Scaffold0006S:623711..625933 Gene model: Aurpu2p4_006465
+M------QQQ---A--AAAG--------------------------------------GIP--PQ-------
+-FMQPQM---------------FF----GPNGQPIMPA-RGQMP----------F--------------IQG
+MP------------QGQR-----------------GGFPQQ--------------------GGR--------
+----GGPNGQPPMGYP--VPPMQ-------GFPPGAY---------------------------GNP----A
+FAN----------------------------QMMMGGRG-----AGRGGPMPMMPG-------MPP------
+-----NMMGG-PNMGGR----GQQ----------------FGRGGPRQMG-----GFP-------QQRPQAP
+SA-SP-ALD----VNA-LNAA----PP
+>N.haematococca/488-675 N.haematococca_strain_77-13-4 C7YM86 C7YM86_NECH7 C7YM86 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 NECH7
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VY-FA-PG-QQP-GFI----PQ-------------------GG----RGM
+--------------PFP------QPGM------GMPGVQGG--------------------R-P-GQF--P-
+--GY-PQQGGR--GG--VPQQIP--PNMYGMPGQFPP------QYGQPGTPQFMAAMQQAQQAALS------
+-------GGRGAPQGGRGGPQG----------------LPGAPPMGGA--MPGFPPNNRQQGAGRG------
+--------------GPN----------AGRNGNGP-----------QAQAGRGAEGA---------------
+NP-AS--VL----QQQ-LQAA--Q-PA
+>M.acridum/485-659 M.acridum_strain_CQMa_102 E9E0T6 E9E0T6_METAQ E9E0T6 Poly(A) RNA binding protein IPR000504,IPR002004 EOG706125 METAQ
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VF-YGQQP-----GFI----PQ-------------------GG----RGM
+--------------PFP------QPGI------GMGGVQGG--------------------R-P-GQF--P-
+--GY-PQQGGR--GA--VPQQIP--PNMYGMPGQFPP------QYGQPGTPQFMAAMQAQQAAM--------
+-------GGRGAPQGGRGVP------------------PPNAG---PG--GMPGYPPNNRQGAGRG------
+------------NGRNN----------NA-----------------NGPNQAGRGEG---------------
+NN-AS--VL----QAQ-LAGA--Q-PA
+>M.robertsii/486-660 M.robertsii_strain_ARSEF_23 E9EP02 E9EP02_METAR E9EP02 Poly(A) RNA binding protein IPR000504,IPR002004 EOG706125 METAR
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VF-YGQQP-----GFI----PQ-------------------GG----RGM
+--------------PFP------QPGI------GMGGVQGG--------------------R-P-GQF--P-
+--GY-PQQGGR--GG--VPQQMP--PNMYGMPGQFPP------QYGQPGTPQFMAAMQAQQAAM--------
+-------GGRGAPQGGRGV-------------------PPPNAG--PG--GMPGYPPNNRQGAGRG------
+------------NGRNN----------NA-----------------NGPNQAGRGEG---------------
+NN-AS--VL----QSQ-LAGA--Q-PA
+>A.oligospora/458-641 A.oligospora_strain_ATCC_24927 G1XR07 G1XR07_ARTOA G1XR07 Uncharacterized protein IPR000504,IPR002004 EOG706125 ARTOA
+M------QQA---A-AA----------------------------------------AGMP-PQP-------
+-YLSAPL------------------YYQPG--AP-GVQ----PP-------------------FL----AGP
+GGPGVPPNRL----PFP--PQ--QAGM-------MISGAGR--------------------A-S-GNW--P-
+----PSANPSG--GNRNGTQGQP--APIYGMTGQG----------GPGGQFGYAQAFNQAQLAAMNPAARGA
+------------------------PQLGL---------NPGRGLSSGG--VNQQMGHQQRGPLGRG------
+---------------------------------------VAPS---QGRGYHSDQAS---------------
+QG-AP--PQ----LAN-LNNL----PP
+>P.nodorum/482-661 P.nodorum_strain_SN15 PABP PABP_PHANO Q0U1G2 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 PHANO
+M------QQQ---QQQQF---------------------------------------GGIP--QM-------
+-FIA------------------------PG-QQP-MMY----PP-------------------GA----RGQ
+M-------------PFP--A-------------GMPGAQGG--------------------R-G-AGF----
+PGGMPGQQGGR--GG-PNAQQMP--PMYMP---------PGMAPGAFPPGPYMNQQYMQLAQAAQQAM----
+-------GGRGGRGGPMPGMPGMPQA-----QIAGGPGIRGGQGGFPQ--GGRGAP----GGRGQP------
+----------------------------------------------PMPGFPQGGRP---------------
+GG-PG--VD----MSV-LSAA--A-PG
+>H.jecorina/482-667 H.jecorina_strain_QM6a G0RNC4 G0RNC4_HYPJQ G0RNC4 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 HYPJQ
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VF-YA-PG-QQP-GFI----PQ-------------------GG----RGI
+--------------PFP------QPGM------PMPNVQGG--------------------R-P-GQF--P-
+--GY-PQQGGR-----NMPQGLP--PNMYSIPGQFPP------QFGQPGTPQFMAAMQQAQQAAALAGGRGG
+APQ----GGRGA-----------------------------MAGMPPN--VQGGMPGYPPNNRQMG------
+--------------RNN----------NGGNGNN-----AGRN---GNFPNQAPRDS---------------
+NT-AS--ML----QNQ-LAAA--Q-PA
+>H.atroviridis/484-668 H.atroviridis_strain_ATCC_20476 G9NXU7 G9NXU7_HYPAI G9NXU7 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 HYPAI
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-FMQ-PP---------------VF-YA-PG-QQP-GFI----PQ-------------------GG----RGM
+--------------PFP------QPGM--------PLPQGG--------------------R-P-GQF--P-
+--GY-PQQGGR-----NVPQGMP--PNMYGLPGQFPP------QFGQPGTPQFMAAMQQAQQAALAG-----
+-------GRGGAPQGGRGNIAGMPPNV-----------QGGMPGYPPN--NRQGMGRNNNAGRNGN------
+----------------------------------------------FNNQAPRDNAA----------NTNAA
+NA-PS--ML----QSQ-LAAA--Q-PA
+>H.virens/482-669 H.virens_strain_Gv29-8 G9MPN6 G9MPN6_HYPVG G9MPN6 Uncharacterized protein IPR000504,IPR002004 EOG706125 HYPVG
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VF-YA-PG-QQP-GFI----PQ-------------------GG----RGM
+--------------PFP------QPGM------PLPNVQGG--------------------R-P-GQF--P-
+--GY-PQQGGR-----NVPQGIP--PNMYGIPGQFPP------QFGQPGTPQFMAAMQQAQQQAAALAG---
+-------GRGGAPQGGRGNIAGMPPNV-----------QGGMPGYPPN--NRQGMG---RNNNGGN------
+------------NNNAG----------RN-----------------GNFPNQPARDN---------------
+NA-SS--ML----QSQ-LAAA--Q-PA
+>L.maculans/484-664 L.maculans_strain_JN3 E5A9N3 E5A9N3_LEPMJ E5A9N3 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 LEPMJ
+M------QQQ---QQQQF---------------------------------------GGIP--QM-------
+-FIA------------------------PG-QQP-MMF----PP-------------------GG----RGQ
+M-------------PFP--A--GIPGQ-----------QGG--------------------R-G-AGF--P-
+G-AMPGQQGGR--GG-PNAQQMPPMYMPPGMAPGAFPPYMNP-------------QYLQLAQAAQQAM----
+-------GGRGGRGGPMAPMPGMPQGQM--------AGVPGMRG--GQ--G--GFP---PQGAGRG------
+-------------APQG----------RG----------QPPM----PFPQGGRGAG---------------
+GP-GG--VD----MGA-LSSA--P-PG
+>P.marneffei/477-660 P.marneffei_strain_ATCC_18224 B6QKP6 B6QKP6_PENMQ B6QKP6 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 PENMQ
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-YMQ-PA---------------VF-YG-PG--QQ-GFL----PG-------------------NA----GQR
+-G--------M---AFA--P---QPGM------VMAGIPGG--------------------R-P-GQY--P-
+G-GFP-QQGGR--GIAGPN-QIP--QNF----GQGIP--IGAMQAGPGGIPNGM-AYPQ-MAQVQ--FGRGA
+-------GGRGQ--VPQGI-----PPNVG--GPR---GGPGFGQ--GR--G--GMP---------P------
+--------------RPG----------PG--GRG-----QNVP---AGAPAAPEGTP---------------
+---GT--LT----LQA-LTAA--P-PQ
+>P.teres/483-666 P.teres_f._teres_strain_0-1 E3S746 E3S746_PYRTT E3S746 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 PYRTT
+M------QQQ---QQQQF---------------------------------------GGIP--QM-------
+-FIA------------------------PG-QQP-MMF----PA-------------------GG----RGQ
+M-------------PFP-------AGM--------PGQQGG--------------------R-G-AGF----
+PGGMPGQQGGR--GG-PNGQQMPPMYMPPGMAPGAFP-------------PAYMNQQYMQLAQAAQQAMGGR
+-------GGRGGVPMA-PMPGMPQVPMAGVPGMR---GGQGFPQGAGR--G--GMPQGRPGQSPMP------
+----------------------------------------------NYPQGGRGGPA---------------
+GA-GV--DM----SAL-QGAA----PG
+>F.pseudograminearum/494-669 F.pseudograminearum_strain_CS3096 K3VMC2 K3VMC2_FUSPC K3VMC2 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 FUSPC
+M------QQA---A-AV----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VY-FA-PG-QQP-GYM----PQ-------------------GG----RGV
+--------------PFP------QGAM---------GMPQG--------------------R-P-GQF----
+--PY-PQQGGR--GG--VPQQMP--PNMYGM-PGQFP--PGY---GQPGTPQFMAAMQAQQAAL--------
+-------GGRG---------------------------APQGGRGGPQ--GMPGMP---PMAGNMP------
+------GFPP-NNNRQG----------GR----------GGPG---RNGNGPQGGRG------------ADA
+AG-LS--SL----QQQ-LASA--P-PP
+>N.fischeri/478-659 sp|A1D4K4|PABP_NEOFI/1-751 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181) GN=pab1 PE=3 SV=1
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPAV---------------FY----GPGQQ--GFI----PAGQR---------------------GGMP
+FA------------PQPG-----------MVMGIPGGRPGQ-------------------YPGP--------
+----FPGQQGGRGMGP--NQQIP-----P-NFQ-GIP-----------MGAMQGPGGIPNGMGYPQM-----
+-------------------------------AQVQFGRG-----AGGRGQVPGMPM---GQGMRGP------
+-----GYG---QGRGGA-----PV----------------QGGPRPQGGRGQPAAA-P---PAAGREEVPAT
+GG-----LT----AQT-LNAV----PP
+>T.stipitatus/479-663 T.stipitatus_strain_ATCC_10500 B8MGJ6 B8MGJ6_TALSN B8MGJ6 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 TALSN
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-YMQ-PA---------------VF-YG-PG--QQ-GFL----PA-------------------NA----GQR
+-G--------L---GFA--P---QPGM------VMAGIPGG--------------------R-P-GQY--P-
+G-GFP-QQGGR--GIGGPNQQIP--QNF----GQGIP--IGAMQAGPGGIPNGM-AYPQ-MAQVQ--FGRGA
+-------GGRGQ--VPQGI-----PPNVG--GPR---GGPGFGQ--GR--G--GMP---------P------
+--------------RPG----------PG--GRG-----QNVP---AGAPVAPEGAP---------------
+---GS--LT----LQT-LSAA--P-PQ
+>A.terreus/480-660 sp|Q0CR95|PABP_ASPTN/1-753 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Aspergillus terreus (strain NIH 2624 / FGSC A1156) GN=pab1 PE=3 SV=1
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPAV---------------FY----GPGQQ--GFI----PGGQR---------------------GGLP
+FA------------PQPG-----------MMMGVPGGRPGQ-------------------YPGP--------
+----FPGQQGGRGMGP--NQQIP-----P-NFAQGI------------PMGAMGPGGIPNGMGYPQM-----
+-------------------------------GQVQFGRG-----AGGRGQVPGMPM---GQGMRGP------
+-----GYG---QGRGGV-----PV----------------QGQMRPGQGGRGQ----N-------AQPAAGR
+GE-EA--PAAGLTAQS-LAAA----PA
+>N.fumigata/480-661 sp|Q4WK03|PABP_ASPFU/1-753 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) GN=pab1 PE=3 SV=1
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPAV---------------FY----GPGQQ--GFI----PAGQR---------------------GGMP
+FA------------PQPG-----------MVMGIPGGRPGQ-------------------YPGP--------
+----FPGQQGGRGMGP--NQQIP-----P-NFQ-GIP-----------MGAMQGPGGIPNGMGYPQM-----
+-------------------------------AQVQFGRG-----AGGRGQVPGMPM---GQGIRGP------
+-----GYG---QGRGGA-----PV----------------QGGPRPQGGRGQPAAA-P---PAAGREEVPAT
+GG-----LT----AQT-LSAV----PP
+>A.clavatus/485-662 sp|A1CRM1|PABP_ASPCL/1-754 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) GN=pab1 PE=3 SV=1
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPAV---------------FY----GPGQQ--GFI----PAGQR---------------------GGMP
+FA------------PQPG-----------MVMGIPGGRPGQ-------------------YPGP--------
+----FPGQQGGRGMGP--NQQMP-----P-NFQ-GIP-----------MGAMQGPGGI------PNG-----
+MGY----------------------------PQAMGQVQ-----FGRGGGRGQVPGMPMGQGMRGP------
+-----GYQGR-GGPQGG-----PR---------------------PQGGRGQNAAAQP---------AAGRE
+EA-PAGALT----AQA-LNAA----AP
+>S.macrospora/483-659 S.macrospora_strain_ATCC_MYA-333 F7VW67 F7VW67_SORMK F7VW67 WGS project CABT00000000 data, contig 2.10 IPR000504,IPR002004 EOG706125 SORMK
+M------QQA---A-AQ----------------------------------------AGMP--QQ-------
+-YMQ-AP---------------VY-Y--AG-QQP-GFM----PA--------------------P----GGR
+-G--------V---PFP------QGGI---------PVQGG--------------------R-P-GQY--P-
+---Y--QQGGR--GG-VPPQQMP--PMGYPI--NQFG--PGA-F-P-PNTPQYM-AAMGQV----GALGGGR
+-GGP---AGRGP---Q-GIPAGIPQGLQ-----G----APA-------------------NGGGRG------
+-------------TPRG----------NA--N-------FMAA---GRGASPVPGA------------PADL
+SA-GS--FL----QAQ-LATT-QD-PQ
+>T.stellatus/484-675 Thest2p7_005479 Scaffold0063:37222..39563 (Thermomyces stellatus CBS 241.64)
+L------QQQ---A---------------------------------------------AQ--AG--MG--G
+QYMQPPV---------------FY----AQPGF------MPQGG--R----GMSF--------PQPGMGMPG
+VQ------------PGRP--------GQFPAGYPPQGGRGI--------------------PGQ--------
+----MPPNMFGLPGQFPPGGPYP-----Q-ANNPQFL------------AAVQQAQQ-------AAA-----
+LGG--------GRGNAPAGR-----------GAPMQGMP-PNVPAMPGAGGPGMAG-------YPP------
+-----NARPQ-GNMGRG--------------------------GAPGRNGGRG--QGP-------MGAAEGG
+SA-AL--LQ----QQL-ANAG----GP
+>V.dahliae/489-680 V.dahliae_strain_VdLs.17 G2WSN3 G2WSN3_VERDV G2WSN3 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 VERDV
+M------QSA---A-AQ----------------------------------------AGMP--NQ-------
+-FMQ-QP---------------VY-F--PG-QQP-GFL----PQ-------------------------GGR
+-G--------M---PFP-------PNM------GMPNIQGG--------------------R-P-GQY--P-
+A-GFP-QQGGR--GI---PQQLP--PNMYGV-PGQFP--PGGFP-AQANNPQFM-AAMQQV--QQASMGGGR
+-G----QGGRGP--MQ-GMP---AGPM-----------GPGAPGY-PP--NR-QQP---GQAGGRG------
+-------------GRNG----------QQ--G-------NFP----PQGGRGAPGA-G---------ENTPP
+QG-LS--AI----QLQ-LNNA-TD-AR
+>M.oryzae/490-678 M.oryzae_strain_70-15 PABP PABP_MAGO7 A4QUF0 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 MAGO7
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQAP----------------VF-YG-PG-SQP-GFM----PP-------------------AG----GRG
+M-------------PYP------QGGM---------PMQPG--------------------R-P-GQF----
+PAGFAAQQGGR--GA--MPQGIP---PMYGLPGQFPP----QGPFPQPNNPQFLAAMQQIQQSALA------
+-------GGRGGPAGRGPMQGGVP--------------VPGMPG--GA--GLPGFP---PNARQQG------
+-----PGAGR-GAAAGR----------AP-----------------AGAPAGARGAG---------------
+AP-EG--LQ----GQL-AAVA--DNPG
+>T.thermophilus/494-672 Talth1p4_004996 scaffold00020:495776..498119 (Talaromyces thermophilus NRRL 2155)
+Q------QQA---A--AAAG---------------------------------------MP--QP-------
+-YMQPAV---------------FY----GPGQQ--GYL-------------------------PG-GQRGMA
+FA------------PQPG----------MVMPGMPGGRPGQ--Y-----------------PGA--------
+----F--PQQGGRGIP--NQQIP-----Q-NFG-QGIPMGAMQ----GAPGAIPNGL-------AYP-----
+QMG-----------------------------QMQFGRG-A---GGRGQVPQGIPPNVPVR--GGP------
+-----GFGQGRGGLPMQ-----QG----------------HVRPQAGRGA--G--A-P-------GGPEAAA
+GG-LT--LQ----A---LTAA----PP
+>A.kawachii/491-671 A.kawachii_strain_NBRC_4308 G7XP18 G7XP18_ASPKW G7XP18 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 ASPKW
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-YMQ-PA---------------VF-YG-PG--QQ-GFI----PG-------------------------GQR
+-G--------M---AFP--P---QPGM------VM-GIPGG--------------------R-P-GQY--P-
+G-PFPGQQGGR--GM-GPNQQIP--PNF----AQGIP--MG-MQ-GPGAIPNGM-GYPQ-MAQVQ--FGRGA
+-------GGRGQ--VP-GM-----P-MGQ--GMR---GGPGYGQ--GR-----GVP---VQ-QGQI------
+--------------RPG----------QG--GRG-----QNAA---AP--AGPQEGA---------------
+A--GG--VN----AQT-LGAA--P-PA
+>M.graminicola/486-669 M.graminicola_strain_CBS_115943 F9X645 F9X645_MYCGM F9X645 Uncharacterized protein IPR000504,IPR002004 EOG706125 MYCGM
+M------QQQ---A-TA----------------------------------------GGIP--PQ-------
+-FMQ-PQ---------------MF-MG-PN-GQP-MMM----PA-------------------------GGR
+GQ-------PM---PFM--Q-------------G-PGGQGQ--------------------R-G--GF--P-
+--GMP-PQGGR--GQ-P-MPQMPQMPFGYP--PQM-----GGMPQ-PYGNPA---AYAQMIQAAQAQAARG-
+-------QGRGG-PMP-GMP-MMP----------------GMPGM-PP--Q--MMP---AGAAGRG------
+------------GFGGG----------RG--G-------MMGG---RGPSDEQRGRA----------SNRGP
+MG-SG--ID----MAA-LNAA--S-AP
+>T.lanuginosus/495-673 Thela2p4_005572 scaffold00031:1793493..1795841 (Thermomyces lanuginosus ATCC 200065)
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPAV---------------FY----GPGQQ--GYL----PGGQR----------------------GMA
+FG------------PQPGLV-----------------MPGM--------------------PGG--------
+----RPGQYPGAFPQQ--GGRGIPNQQIPQNFGQGI------------PMGAMQGAPGAIPNGLAYP-----
+QMG----------------------------QMQFGRGA-----GGRGQVPQGIPPNVPVR--GGP------
+-----NFGQGRGGLPMQ-----------------------QGHVRPQGGR-------G-------AGAPGGP
+EV-APGGLT----LQA-LTAA----PP
+>A.niger/492-672 A.niger_strain_ATCC_1015 G3XRJ6 G3XRJ6_ASPNA G3XRJ6 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 ASPNA
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-YMQ-PA---------------VF-YG-PG--QQ-GFI----PG-------------------------GQR
+-G--------M---AFP--P---QPGM------VM-GIPGG--------------------R-P-GQY--P-
+G-PFPGQQGGR--GM-GPNQQIP--PNF----AQGIP--MG-MQ-GPGGIPNGM-GYPQ-MAQVQ--FGRGA
+-------GGRGQ--VP-GM-----P-MGQ--GMR---GGPGYGQ--GR-----GAP---VQ-QGQM------
+--------------RPG----------QG--GRG-----QNAA---AP--AGPQEGA---------------
+A--GG--VN----AQT-LGAA--P-PA
+>N.crassa/482-670 sp|Q7S6N6|PABP_NEUCR Polyadenylate-binding protein, cytoplasmic and nuclear OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) GN=pabp-1 PE=3 SV=1
+M------QQA---A--AQAG---------------------------------------MP--QQ-------
+-YMQAPV---------------YY----AGQQP--GFM--P-APGGR----GVPF--PQGGIVPGVQGGRPG
+QY------------PYQ--------------QGGRGGVPP---------------------QQM--------
+----PPMGYPINQFGPGAFPPNT-----P-QYMAAMG----------------QVGA---------------
+LGG--------GRGGPA--------------GRGPQGIP-----AGIPQGLQGGPA---VPGYPPA------
+-----GRPQN-GGGRGT-----PR------------------GNANFMAAGRGASPIP-------GAPADLS
+AG-SF--LQ----AQL-ATTQ----DP
+>N.tetrasperma/481-670 N.tetrasperma_strain_FGSC_2509 G4V0B6 G4V0B6_NEUT9 G4V0B6 Polyadenylate binding protein IPR003954,IPR002004 IPR000504 EOG706125 NEUT9
+M------QQA---A-AQ----------------------------------------AGMP--QQ-------
+-YMQ-AP---------------VY-Y--AG-QQP-GFM----PA--------------------P----GGR
+-G--------V---PFP------QGGI-------VPGVQGG--------------------R-P-GQY--P-
+---Y--QQGGR--GG-VPPQQMP--PMGYPI--NQFG--PGA-F-P-PNTPQYM-AAMGQV----GALGGGR
+-GGP---AGRGP---Q-GIPAGIPQGLQ-----G----GPAVPGY-PP--A--GRP---QNGGGRG------
+-------------TPRG----------NA--N-------FMAA---GRGASPIPGA------------PADL
+SA-GS--FL----QAQ-LATT-QD-PQ
+>U.reesii/489-673 U.reesii_strain_UAMH_1704 C4JVG5 C4JVG5_UNCRE C4JVG5 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 UNCRE
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-FMQ-PP---------------VF-YG-PG--QQ-NFL----PN-------------------------QRG
+-G--------M---PFQ------QPGM------VIPQMPGG--------------------R-H-GQF--S-
+G--FPGQQGGR--GM-NPNQQIP--PNAYGLGAQGLP--IS-MQ-G-G-MPNGL-NYPQM-AQVQAPFGRG-
+-------RGQVP---A--VQ-GMPPNVQGM--------GPNAQF--GR-----GMP---MQ-QGMG------
+--------------RPG----------QA--GRG-----QG-P---AQAAGQRDETS---------------
+SP-SG--LT----LQM-LNAA--P-PA
+>A.oryzae/490-672 sp|Q2UK72|PABP_ASPOR/1-765 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Aspergillus oryzae (strain ATCC 42149 / RIB 40) GN=pab1 PE=3 SV=1
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPAV---------------FY----GPGQQ--GFI-----PGQR---------------------GGIA
+FP------------PQPG----------MVMAGIPGGRPGQ-------------------YPGP--------
+----FPGQQGGRGMGP--NQQLP-----PNFQGIPMG-----------AMQGPVPNGMGYPQGMAQVQFGRG
+AGG----------------------------RGQVPGMPNM------------------GQGMRGP------
+-----GYGQGRGGVPVQQGQMRPG------------QGGRGQNAAQAPAG---------------RPEEAVA
+GG-----LT----AQA-LSAA----PP
+>C.immitis/490-676 C.immitis_strain_RS PABP PABP_COCIM Q1DXH0 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 COCIM
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-FMQ-PA---------------VF-YG-PG--QQ-NFI----PN-------------------------QRG
+-G--------M---PFQ------QPGM------VIPGMPGG--------------------R-H-GQF--G-
+G--FPGQQGGR--GM-NPNQQIP--PNAYGIGAQGLP--MG-MQ-GAG-IPNGL-NYPQM-GQVQAPFGRG-
+-------RGQAP---S--GQ-GMPPNVQGM--------GPGGQY--GR-----GMP---VQ-QGMG------
+--------------RPG----------QA--GRG-----QGAP---AQAVGQRDENA---------------
+SP-NG--LT----LQV-LNAA--P-PA
+>M.phaseolina/500-678 M.phaseolina_strain_MS6 K2QU85 K2QU85_MACPH K2QU85 Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 MACPH
+M------QQA---A-AA----------------------------------------AGMP-TQQ-------
+-FVQ-PQ---------------MF-FG-PG--QQ-PFM----GG-------------------RG----QM-
+--------------PFP-------QGM----------PAGG--------------------R-G-AGFPQG-
+----MPMQGGR--GG-PNAQQIP--PMGMPFPGAPLP---------GGIPPQYNPAYAQMLAAQQAAMGGRG
+-------GSRGPMPGMPGMP-GMPQMAGQIPANN--RGGPNNRGGANR--NQPGFP----------------
+----------------------------------------------SGRPAPGQAPT---------------
+PG-EG--VD----LSA-LQSA--A-PP
+>C.graminicola/496-689 C.graminicola_strain_M1.001 E3QRS3 E3QRS3_COLGM E3QRS3 4 family polyadenylate binding protein IPR000504,IPR002004 EOG706125 COLGM
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VF-YA-AG--QQ-PVF----PQ-------------------GG----RG-
+----------M---AFP------QPGM------AMPAVQGG--------------------R-P-GQF--P-
+G-GYP-QQGGR--GG-LPQQM----PPVYGI-PGQFP--PGAPY-PQPGNPQFL-AAIQQVQQATMGGGRGG
+PQ-----GGRGPVPQGMPMP------------------GPGMPGFPPN--ARQGGN---QPGAGRG------
+---------A-NPNAPR----------NA----------PFPQ---GGRGAPAQDL----------------
+NS-GS--LI----QQQ-LAAAGSN-PG
+>C.posadasii/490-676 C.posadasii_strain_RMSCC_757 E9DFJ0 E9DFJ0_COCPS E9DFJ0 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 COCPS
+Q------QQA---A-AA----------------------------------------AGMP--QP-------
+-FMQ-PA---------------VF-YG-PG--QQ-NFI----PN-------------------------QRG
+-G--------M---PFQ------QPGM------VIPGMPGG--------------------R-H-GQF--G-
+G--FPGQQGGR--GM-NPNQQIP--PNAYGIGAQGLP--MG-MQ-GAG-IPNGL-NYPQM-GQVQAPFGRG-
+-------RGQAP---S--GQ-GMPPNVQGM--------GPGGQY--GR-----GMP---VQ-QGMG------
+--------------RPG----------QA--GRG-----QGAP---AQAVGQRDENA---------------
+SP-SG--LT----LQV-LNAA--P-PA
+>G.graminis/486-688 G.graminis_var._tritici_strain_R3-111a-1 J3NH13 J3NH13_GAGT3 J3NH13 Polyadenylate-binding protein; Uncharacterized protein IPR003954,IPR002004 IPR000504 EOG706125 GAGT3
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-FMQAP----------------VF-YG-PG-SQP-GFM----PP-------------------AG----GRG
+M-------------PFP------QPGM------GLPAVQGG--------------------R-P-GQF----
+PAGYAGQQGGR--GG--LPQQIP---PMYGIPGQFPP--QGQYQ---PNNPQFI-AAMQQLQQSNLTAGRGV
+-----------PVARGPGIQGGLPGSMPGMPGAANMPGYPPNARQQGA--GAGAGRGAGGRNQGPG------
+---------------------------------------FAGA---APQGGRDAAPA---------------
+EG-AS--VL----QTQ-LAAVGNN-PG
+>C.thermophilum/491-680 tr|G0SAP2|G0SAP2_CHATD Putative uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) GN=CTHT_0042990 PE=4 SV=1
+M------QQQ--------AA---------------------------------------QA--GL--PQ---
+-YMQPPV---------------YY----PGQQP--GFL----PP--A----------------------AGR
+GM------------PFPQ---------------GALGMPPV--------------------QGG--------
+----RPGQFPPYPQQAGRGTIPPQVPMYPIGQFPGAY---------------------------PQPNNPQF
+LAA--------MQQVQQA-------------AALAGGRG-----APAGRGVPTVPIPQGIQAPGLA------
+-----GYPPN-GRPQNG-----NL----------------GRGAGPNRSNFPAGRGAP------PAGPLGVP
+GELSPAALL----QSQLAATT----NP
+>T.terrestris/488-683 jgi|Thite2|2110364|fgenesh_kz1_kg.chromosome_1_#_4323_#_31673
+M------QQA---A---AQA--------------------------------------GLP--QQ-------
+-YMQAPV---------------YY----APGQQ--PGF----LP--------------------------PG
+GR------------GMP-------------FPQGGIGMPAV--------------------QGG--------
+----RPGQFPPYAQQGG-RGGMP--QQLP-IYPLGQF----------PPGTYPQPNN-------PQF-----
+LAA----IQQVQQQAAALGTGRGGPG-----GRGMQGMPIPQGMPGGPGLAGYPPN-------GRP------
+-----QNGNM-AGRGGP-----NR-----------------GGSFAAGRGGVP----P-------AGPVGAT
+GE-LS--ATALLQSQL-AATT----NI
+>E.dermatitidis/500-689 E.dermatitidis_strain_ATCC_34100 H6C6M6 H6C6M6_EXODN H6C6M6 Nucleolin IPR000504,IPR002004 EOG706125 EXODN
+Q------QQQ---A-AA----------------------------------------AGMP--QG-------
+-YIQ-PT---------------VF-Y--PG--QQ--FL----PP-------------------------GAQ
+RG--------M---PFA--G---QPGM------VIPGMQGG--------------------R---GQF--P-
+G-GFP--QGGR--GI-PQGQQLP--PNF------GLPGQMPFIQ-NPA-LVNGMYNNPQALAQMQGQMGRGA
+-------GGRGQ--MQ-GMQ-GMPPNMQGMGGMR---GGPNFPQG-GR--G--GMQ---NIPGGQG------
+------------AGRIP----------PQ--GRG-------------QMIPNREEIN---------------
+---TP--SS----LHN-LASL--P-QS
+>G.clavigera/491-696 G.clavigera_strain_kw1407 F0XC66 F0XC66_GROCL F0XC66 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 GROCL
+M------QQA---A-AV----------------------------------------AGLP--QT-------
+-YMQ-PQ---------------VY-YP-PGQQQ--AFL----PQ-------------------GG----RGM
+--------------AFP------QGGL------GIPGVQGG--------------------R-P-GQFAPG-
+--GFTGPQGGR--GL--PPQQLP--PNVYGLPGQFPP--------GVPFGPNNA-QYLAAMQQVQQTVGRGG
+APA----GGRGPIPALGSHPAGINGLQGA---------GPGLAGFPPT--RQNGGG----RGAGRG------
+-----GAQGF-AGPQAG----------RGVQG--------------QASGSAAVPEL---------------
+NQ-AT--LI----QAQ-LTAT--NGNV
+>T.rubrum/499-694 T.rubrum_strain_ATCC_MYA-4607 F2SQN1 F2SQN1_TRIRC F2SQN1 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 TRIRC
+Q------QQV---A-AA----------------------------------------AGMA--QP-------
+-FMQ-PA---------------VF-YGAPG--QQ-GFL----PG-------------------------AQR
+-G--------M---QFA--G---QAGM------VMPGMPGG--------------------R-P-GQF--P-
+Q--FPGQQGGR--GM-NPNQPLP--PN-FAMGSQGIP--MGAMQ-SAG-IPNGL-NYSQI-SQVQS-FGRG-
+-------GGRGQ--GP--MQ-GMPPAAGNAPQMRGGPGAPGFAQ--GR-----NMP---IQ-QG-G------
+--------------RAG----------PG--GRG-----QGAP---GQGGIPRDEAA---------------
+GS-GS--IN----LAV-FNAA--P-EP
+>T.equinum/500-695 T.equinum_strain_ATCC_MYA-4606 F2PJS2 F2PJS2_TRIEC F2PJS2 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 TRIEC
+Q------QQV---A-AA----------------------------------------AGMA--QP-------
+-FMQ-PA---------------VF-YGAPG--QQ-GFL----PG-------------------------AQR
+-G--------M---QFA--G---QAGM------VMPGMPSG--------------------R-P-GQF--P-
+Q--FPGQQGGR--GM-NPNQPLP--PN-FAMGNQAIP--MGAMQ-GAG-IPNGL-NYPQI-GQVQS-FGRG-
+-------GGRGQ--GP--MQ-GMPPAAGNAPQMRGGPGAPGFAQ--GR-----NMP---IQ-QG-G------
+--------------RAG----------PG--GRG-----QGAP---GQGGIPRDEAA---------------
+GS-GS--IN----LAV-FNAA--P-EP
+>A.gypseum/502-695 A.gypseum_strain_ATCC_MYA-4604 E4UQP7 E4UQP7_ARTGP E4UQP7 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 ARTGP
+Q------QQV---A-AA----------------------------------------AGMA--QP-------
+-FMQ-PA---------------VF-YGAPG--QQ-GFL----PG-------------------------AQR
+-G--------M---QFA--G---QAGM------VMPGMPGG--------------------R-P-GQF--A-
+Q--FPGQQGGR--GM-NPNQPLP--PN-FAMGGQGIP--MGAMQ-GAG-IPNGL-NYPQM-G--QS-FGRG-
+-------GGRGQ--GP--MQ-GMPPAAGNAPPMRGGPGGPGYSQ--GR-----NMP---MQ-QG-G------
+--------------RPG----------PG--GRG-----QGAP---GQGGMPRDEAA---------------
+GP-GS--IN----LQV-FNAA--P-EP
+>G.lozoyensis/488-697 G.lozoyensis_strain_ATCC_74030 H0EN81 H0EN81_GLAL7 H0EN81 Putative Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 GLAL7
+M------QQA---A-AQ----------------------------------------AGMP--PQ-------
+-YMQAP----------------MF-YP-PG-QQP-GFM----PA-------------------AG----GRG
+M-------------PYP--P---QAGM-------PMPAQGG--------------------R-P-AQF----
+----PGGFPPQ--GGRGGPQQMP--PNMYGIPGQFPP-----GQFPQQNNPQYIAAMQQAAHAASLQAG---
+-------GGRGGPARPMQGMPGMPPNMAGLPGGQQGMQGVPQGGRQGG--MGGRAPQNARAGQFPG------
+-------------------------------GFPPQNARGMPP---QGPGMPQAGSE---------------
+GG-AS--VL----QAQ-LAAA--G-PG
+>A.dermatitidis/489-691 A.dermatitidis_strain_ATCC_18188 F2TQT7 F2TQT7_AJEDA F2TQT7 Polyadenylate-binding protein IPR003954,IPR002004 IPR000504 EOG706125 AJEDA
+Q------QQV---A-AA----------------------------------------AGMS--QP-------
+-FMQ-PA---------------VY-YP-PG--QQ-GFI----PA-------------------NA----GQR
+GG--------M---AFG--Q---QPGM------VLPGMPGG--------------------R-P-GQF--A-
+G-GFPGQQGGR--GI-NPNQQLP--PNAFGMGAQGLP--MGALQ-GPGGLPNGL-SYPQAIAQVQASFGRGG
+-------GGRGQ--AP-GMQ-GMPPSMGNAPGMR--AGGQAFTQ--GR-----GMP---PQ-QG-V------
+-------------ARPG----------QA--GRG-----AGPA---QGMPPRDESAG---------------
+GP-T---LN----LQA-LSAA--P-PA
+>C.globosum/491-690 C.globosum_strain_ATCC_6205 PABP PABP_CHAGB Q2GSX8 Polyadenylate-binding protein, cytoplasmic and nuclear IPR000504,IPR002004 EOG706125 CHAGB
+M------QQA---A-AQ----------------------------------------AGLP--QQ-------
+-YMQ-TP---------------VY-YA-PG-QQP-NFM----PP-------------------------GGR
+-G--------M---PFP------QGGL------GMPAVQGG--------------------R-P-GQF--P-
+--PYA-QQGGR--GG-MPPQQLP----IYPL--GQFP--PGA-Y-PQPNNPQFL-AAIQQVQQQAAALGNGR
+-GGPGGPGGRGM---Q-GMP-V-PQGMP-----G----GPGMAGF-PP--N--GRP----QNGNMG------
+-----------GRGGPG----------RG--G-------NFAA---GRGA-PPAGPLA---------AGGEL
+NA-SS--LL----QSQ-LTAT-NN-PQ
+>A.capsulata/489-692 A.capsulata_strain_G186AR C0NSS5 C0NSS5_AJECG C0NSS5 Polyadenylate-binding protein IPR003954,IPR002004 IPR000504 EOG706125 AJECG
+Q------QQV---A-AA----------------------------------------AGMS--QP-------
+-FMQ-PA---------------VY-YP-PG--QQ-GFI----PA-------------------NA----AQR
+GG--------M---AFG--Q---QPGM------VIPGMPGG--------------------R-P-GQF--A-
+A-GFPGQQGGR--GI-NPNQQLP--PNAFGLGAQGLP--IGALQ-GPGGLPNGL-SYPQAIAQVQASFGRGG
+-------GGRGQ--VP-GIQ-GMPPNLANVPGMR--AGGQGFAQ--GR-----GIP---PQ-QGGM------
+-------------VRSG----------QA--GRG-----TGPG---QAMPPRDESVG---------------
+GP-T---LN----LQA-LSAA--P-PA
+>S.sclerotiorum/483-697 S.sclerotiorum_strain_ATCC_18683 A7E4Z1 A7E4Z1_SCLS1 A7E4Z1 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 SCLS1
+M------QQA---A-AQ----------------------------------------AGMP--QQ-------
+-YMQ-AP---------------MF-FP-PGAQQP-GFL----PQ-------------------GG----RGM
+--------------QFP--P---QAGM------PIPGAQAG--------------------R-P-GQFQA--
+--GFPPQQAGR--GA-PAGQQMP--PNMYGMGPGQFP--AGGQY-PQQNNPQFL-AAMQAAQAAQLSAGRGG
+-------------PNARGPMQGMPPNMAMPMGQQ---GMPQFQQ--GA--RQGGMP---GRGAQAG------
+--------------RPG----------QFAGGFPPQAGRGMPQ---QIPGMPQMPQM--------------P
+QE-GG--VP----TTL-LQAQVQSVPP
+>M.brunnea/487-699 M.brunnea_f._sp._multigermtubi_strain_MB_m1 K1WS92 K1WS92_MARBU K1WS92 4 family polyadenylate binding protein IPR003954,IPR002004 IPR000504 EOG706125 MARBU
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-FMQTP----------------MF-YP-PG-QQP-GFI----PQ-------------------AG----RGM
+--------------AFP--P---QAGM------PIPGAQGG--------------------R-P-GQF----
+PAGFPPQQAGR--GG-PGPQQMP--PNMYGMPGQF----PQAAPYGQQGNPQFIAAMQQAQQAAALAGGRGG
+P------GARGPVQGLPGM-------------------PPNLAGMQPQ--MLGGFPQAARGGAQGG------
+-----RGAQG-AQARPG----------QYSGGFPPQAGRGMPP---QMPGMPPAGGE---------------
+LV-GG--AL----AQQ-LSAV----PP
+>T.crustaceus/500-693 Thermoascus crustaceus CBS 181.67 - was Thermoascus aurantiacus Scaffold0005S:510380..512911 gene model: Theau2p4_006655 Polyadenylate-binding protein, cytoplasmic and nuclear http://genome.fungalgenomics.ca/new_gene_model_pages/gene_model_page.php?gmid=Theau2p4_006655
+Q------QQA---A---AAA--------------------------------------GMP--QP-------
+-YMQPTV---------------FY----GPGQQ--GFLPNA-GG--R---------------------GGLA
+FA------------PQPG----------MVMAGIPGGRPGQ--Y-----------------PGA--------
+----FPAQQGGRGI-P--NQQIP-----P-NFGQGIPMGAMQGGPGGIPNGLSY----------PQA-----
+IAQ--------VQASF---------------GRGAGGRG-Q---VPMQGVPPNMPNVQGMR--GGP------
+-----GYQGR-GGM--P-----PQ------------------MGRPGQGGRGQNAPAM-------QPVVPGT
+EA-ATGGLT----LQA-LTAA----PP
+>T.heterothallica/498-694 T.heterothallica_strain_ATCC_42464 G2QF19 G2QF19_THIHA G2QF19 Uncharacterized protein IPR000504,IPR002004 EOG706125 THIHA
+M------QQA---A-AQ----------------------------------------AGLP--QQ-------
+-YMQ-AP---------------IY-YA-PG-QQP-NFM----PP-------------------------GGR
+-G--------M---PFP------QAGL------GMPAVQGG--------------------R-P-GQF--P-
+--PYA-QQGGR--GA-IPPQQIP----LYPL--GQFP--PGA-Y-GQPTNPQFL-AAIQQVQQQAANLG-GR
+-GAP---GGRGM---Q-GMP-V-PQGMP-----G----GPGMAGF-PP--N--GRP----QNGAIG------
+-----------GRGGPN----------RG--G-------NFAA---GRGGVPPAGPLG---------GAGEL
+NA-TS--LL----QSQ-LAAT-SN-PQ
+>M.thermophila/498-693 Myceliophthora thermophila ATCC 42464 jgi|Spoth2|2306966|fgenesh_kz1_kg.chromosome_4_#_1247_#_88607
+M------QQA---A---AQA--------------------------------------GLP--QQ-------
+-YMQAPI---------------YY----APGQQ--PNF----MP--------------------------PG
+GR------------GMP-------------FPQAGLGMPAV--------------------QGG--------
+----RPGQFPPYAQQGG-RGAIP-----PQQIP-LYPLGQFPPGAYGQPTNPQFLAAIQQVQQQAAN-----
+LGG--------RGAPG---------------GRGMQGMPVPQGMPGGPGMAGFPPN---GRPQNGA------
+-----------IGGRGG-----PN----------------RGGNFAAGRGGVP----P-------AGPLGGA
+GELNATSLL----QSQLAATS----NP
+>B.fuckeliana/492-703 B.fuckeliana_strain_T4 G2YIW5 G2YIW5_BOTF4 G2YIW5 Similar to polyadenylate-binding protein IPR003954,IPR002004 IPR000504 EOG706125 BOTF4
+M------QQA---A-AQ----------------------------------------AGMP--QQ-------
+-YMQ-AP---------------MF-FP-PGAQQP-GFL----PQ-------------------GG----RG-
+-M------------QFP--P---QAGM------PIPGAQGG--------------------R-P-GQF-QA-
+--GFPPQQAGR--GA-PAGQQMP--PNMYGMGPGQFP--AGGQY-PQQNNPQFLAAMQAAQLT---------
+-------AGRGGPNARGPMQ-GMPPNMAMPMGQQ---GMPQFQQ--GA--RQGGMP---GRGAQAG------
+--------------RPG----------QFAGGFPPQAGRGMPQ---QIPGMQQIPQM--------------A
+QE-GG--VP----ATM-LQAQVQAVAP
+>F.oxysporum/491-657 F.oxysporum_strain_Fo5176 F9FQS1 F9FQS1_FUSOF F9FQS1 Uncharacterized protein IPR000504,IPR002004 EOG706125 FUSOF
+M------QQA---A-AA----------------------------------------AGMP--QQ-------
+-YMQ-PP---------------VY-FA-PG-QQP-GFM----PQ-------------------------GGR
+GV------------PFP------QPGM------GMPGVQGG--------------------R-P-GQF----
+P-GYP-QQGGR--GG--VPQQMP--PNMYGMPGQFPP------QFGQPGTPQFMAAMQAQQAAL--------
+-------GGRG---------------------------APQGGRGGPQ--NMPGGP---PMAGGMA------
+------GFPP-NNRQQG----------GR----------GGPG---RNGNAPQGGRG---------------
+-----------------AEGA----GP
+>A.benhamiae/518-714 A.benhamiae_strain_ATCC_MYA-4681 D4AZ29 D4AZ29_ARTBC D4AZ29 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 ARTBC
+Q------QQV---A-AA----------------------------------------AGMA--QP-------
+-FMQ-PA---------------VF-YGAPG--QQ-GFL----PG-------------------------AQR
+-G--------M---QFA--G---QAGM------VMPGMPGG--------------------R-P-GQF--P-
+Q--FPGQQGGR--GM-NPNQPLP--PN-FGMGSQGIP--MGAMQ-GAG-IPNGL-NYPQIGGQVQS-FGRG-
+-------GGRGQ--GP--MQ-GMPPAAGNAPQMRGGPGAPGFAQ--GR-----GMP---MQ-QG-G------
+--------------RAG----------PG--GRG-----QGAP---GQGGIPRDEAA---------------
+GS-GS--IN----LAV-FNAA--P-EP
+>G.destructans/507-716 GMDG_02786T0 | GMDG_02786 | Geomyces destructans 20631-21 hypothetical protein (806 aa)
+M------QQA---A---------------------------------------------AA--AG-LPQ---
+-QFIQAP----M----------FY----GPGQQ--PGFMPP-NAGGR----GMPF-----PLQQGMGIPAQG
+AR------------PGQY-----PNFPPQQAGRGGPGPQQL--P-----------------PSV--------
+----YGLPGQFSPGAPYGQAGNP-----Q-FLA-AMQQAQAAALAGAGRGGPGGRMPMQALPGMPPN-----
+MAG--------LQGVP---------------GPGMPPQA-YRQQNNAGRGMPGRPG---QAGGFPP------
+-----------QGARST-----SQ--------------------AGQAPV-------P---------GASQE
+GA-SA--LQ----AQ--LTTA----PP
+>T.verrucosum/534-729 T.verrucosum_strain_HKI_0517 D4DD73 D4DD73_TRIVH D4DD73 Putative uncharacterized protein IPR000504,IPR002004 EOG706125 TRIVH
+Q------QQV---A-AA----------------------------------------AGMA--QP-------
+-FMQ-PA---------------VF-YGAPG--QQ-GFL----PG-------------------------AQR
+-G--------M---QFA--G---QAGM------VMPGMPGG--------------------R-P-GQF--P-
+Q--FPGQQGGR--GM-NPNQPLP--PN-FAMSGQGIP--MGAMQ-GTG-IPNGL-NYPQL-GQVQS-FGRG-
+-------GGRGQ--GP--MQ-GMPPAAGNAPQMRGGPGAPGFAQ--GR-----SMP---IQ-QG-G------
+--------------RAG----------PG--GRG-----QGAP---GQGGIPRDEAA---------------
+GS-GS--IN----LAV-FNAA--P-EP
+>P.brasiliensis/490-708 P.brasiliensis_strain_ATCC_MYA-826 C1GNZ9 C1GNZ9_PARBA C1GNZ9 Polyadenylate-binding protein IPR000504,IPR002004 EOG706125 PARBA
+Q------QQV---A-AA----------------------------------------AGMS--QP-------
+-FMQ-PA---------------VY-YP-PG--QQ-GFI----PA-------------------NA-----QR
+GG--------M---AFA--Q---QPGM------VLPGMPGG--------------------R-P-GQY--P-
+G-GFP-QQGGR--GLAGPNQQLP--PNAFGMGAQGLP--IGALQ-GPGGIPNGL-TYPQAIAQVQASFGRGG
+-------GGRGH--VP-GMQ-GMPPNMGNVPGMR-GAGGPGFTQ--GR--G--GMP---PQGAGGM------
+------------GGRPG----------QA--GRGGAGGVGGPV---PGMPPRDDGAGV---------VGVGV
+GP-SG--LN----LQA-FSAA--P-PA
+>P.vinckei/497-764 gi|577151430|gb|EUD74468.1|/1-827 hypothetical protein YYG_00419 [Plasmodium vinckei petteri]
+-------HHI---N---NSL--------------------------------------NSP--MQ-------
+-YPNSQT----PQLQFNQNAL-SY----GRPVI--TTF----NQ--N---NLISWRHQQAAAQQQAVHQQAA
+AQ------------QQLGFNAGLRGQINQMRLYTQNNMMNHNIG-----------------QNK--------
+----ANQQLHHNQQYP--MGPNPQHQQGNLNAPGQANPQQLQGAAPVPANQLLNNNMRNINGRGNRN-----
+LPG--MNMQSPKQMPLNMVGGKQNNPQQNQAQGQPQGQP-----QGQTPPSQQKAGQPMQQQPIPQ------
+---NNNFKFT-SQARNRMEL--PN-----------------KNANKVNNM-------N-------NMTPGYN
+NN-TT--LT----AAA-LASA----PP
+>P.berghei/503-770 gi|68070939|ref|XP_677383.1|/1-833 polyadenylate-binding protein [Plasmodium berghei strain ANKA]
+H------HIN---N---SLS---------------------------------------SP--IQ-------
+-YPNNQT----PQLQFNQNTL-NY----GRPVI--TTFNQNNLI--S-------W------------RHQQA
+AA------------QQQAVHQQAAAQQLGFNAGLRGQINQMRLYTQNNMMNHNIGQNKASQQLH--------
+----HNQQYS--------MGPNPQHQQTNLNAPGQANPQQLQGTAPVPNNQLLNNNMRNMNNRGNRN-----
+LPG--MNMQSPKQMPLNMIGAKQTNTQQNQPQGQPQGQPQGQPQAQPQVQSQQKTGQSIQQQPIPQ------
+---NSNFKFT-SQARNR-----ME--------------------LPNKNANKN------------NMNPGYN
+NN-TT--LT----AAA-LASA----PP
+>P.yoelii/506-778 gi|564280344|gb|ETB61733.1|/1-841 hypothetical protein YYC_01562 [Plasmodium yoelii 17X]
+-------HHI---N---NAL--------------------------------------NAP--IQ-------
+-YPNSQT----AQLQFNQN-TLNY----GRPVI--TSF----NQ--N---NLISW--RHQQAAAQQQAAHQQ
+AA------------AQQQLGFNGGLRGQINQMRLYTQNNMINHNIGQNKANQQLHHNQQYPIGP--------
+----NPQHQQTNLNAP--AQTNP-----Q-QLQ-GAA---PVPTNQLLNNNMRNMNS-----RGNRN-----
+LPGINIQSP--KQMPLNMVGAKQTNPQQNQPQNQPQNQP-Q---GQPQNQPQQKSGQSIQQ--QQQQQQQQT
+IPQNNNFKFT-SQARNRME--LPN-----------------KNGNKV----NN-------------MTPGYN
+NN-TT--LT----AAA-LASA----PP
+>P.knowlesi/536-811 gi|221061487|ref|XP_002262313.1| polyadenylate-binding protein [Plasmodium knowlesi strain H]
+-------HHM---N---NAL--------------------------------------NSP--MQ-------
+-YPNPQS----PQLQFNQN-TLNY----GRPVL--TPF----NQ--N---NLISW--RHQQAAQQQVVHQQA
+AQ------------QQLNFNANLRGQMNQMRFYTQGGANMMNNSMNQNKVNAQLH------PGH--------
+-------QYPNALGQG--NPQQP-----N-LSAPGQHNNNQAMQQQPANNQMLNNNMRNMNNRASRN-----
+MGAGNIANIPNQKQLPINMVGKQNTSQGSQMNHQGPPPP-QQQQGQGSPQQQQTQQ-------KSPQQMQQQ
+VPPNGNFKFT-SQARNRME--MPN-----------------KNANKVNAI-NN-------------MNVNFN
+NS-ST--LT----AAA-LASA----PP
+>P.falciparum/546-812 gi|124806145|ref|XP_001350640.1|/1-875 polyadenylate-binding protein, putative [Plasmodium falciparum 3D7]
+-------HHM---N---NPL--------------------------------------NTP--MQ-------
+-YASPQS----PQLQFSQNTL-SY----GRPVI--TAFNQNNLI--S-------W--------RHQQAAQQQ
+AV------------HQQAVHQQAAQQQLNFNTNLRGQINQMRLYTQNNMMNNNLNQNKPNAQLH--------
+----HNQQYVPNALAQ--NGQQQ-----PNLNAAGQH--NAQQLQQQGNNQLLNNNMRNMNNRANRN-----
+MGN--LGNMNNQKQLPLNINNKQQNAASQANQMNHQAQP-----QGAQAQQKNPQQMQQVP--QGN------
+-----NFKFT-AQARNRMEL--PN-----------------KNANKVNTMNNN----M---------NVNFN
+NN-ST--LT----AAA-LASA----PP
+>P.reichenowi/546-812 gi|641580187|emb|CDO65519.1|/1-875 polyadenylate-binding protein, putative [Plasmodium reichenowi]
+-------HHM---N---NPL--------------------------------------NTP--MQ-------
+-YAAPQS----PQLQFSQNTL-SY----GRPVI--TAFNQNNLI--S-------W--------RHQQAAQQQ
+AV------------HQQAVHQQAAQQQLNFNTNLRGQINQMRLYTQNNMMNNNLNQNKPNAQLH--------
+----HNQQYVPNALAQ--NGQQQ-----PNLNAAGQH--NAQQLQQQGNNQLLNNNMRNMNNRANRN-----
+MGN--LGNMNNQKQLPLNINNKQQNAASQANQMNHQAQP-----QGAQAQQKNPQQMQQVP--QGN------
+-----NFKFT-AQARNRMEL--PN-----------------KNANKVNTMNNN----M---------NVNFN
+NN-ST--LT----AAA-LASA----PP
+>P.vivax/545-820 gi|156103277|ref|XP_001617331.1|/1-883 polyadenylate-binding protein [Plasmodium vivax Sal-1]
+-------HHM---N---NAL--------------------------------------NSP--MQ-------
+-YPNPQS----PQLQFNQN-TLNY----GRPVI--TPF----NQ--N---NLISW--RHQQAAQQQVVHQQA
+AQ------------QQLNFNANLRGQMNQMRLYTQGGGNMMNNNMNQNKVNSQLH------PGH--------
+-------QYPNALGQA--NPQQP-----N-LNAPGQHNNNQPMQQQPGNNQMMNNNMRNMNSRANRN-----
+MGGGNMGNMPNQKQLPLNMVGKQNNAQANQMNHQGPPPP-QQQQQQQQQQTQQTQQKSAQQMQQQV------
+-PPNGNFKFT-SQARNRME--MPN-----------------KNANKVNPI-NN-------------MNVNFN
+NN-ST--LT----AAA-LASA----PP
+>P.cynomolgi/545-821 gi|457877561|ref|XP_004225019.1|/1-883 polyadenylate-binding protein, partial [Plasmodium cynomolgi strain B]
+-------HHM---N---NAL--------------------------------------NSP--MQ-------
+-YPNPQS----PQLQFNQNTL-NY----GRPVL--TPF----NQ--N---NLISW--RHQQAAQQQVVHQQA
+AQ------------QQLNFNANLRGQMNQMRFYTQGGGNMMNNTMNQNKVNSQLH------PGH--------
+-------QYPNALGQA--NPQQQ-----N-LNAPGQMNNNQPMQQQPGNNQMLNNNMRNMNSRANRN-----
+MGGGNMGNMPNQKQLPLNMVGKQNNSQANQMNHQGPPPP-----QQQQNQQQQQQQQQTQQ--KSAQQMQQQ
+VSPNGNFKFT-SQARNRMEMPNKN----------------ANKVNPINNM-----------------NVNFN
+NN-ST--LT----AAA-LASA----PP
+>P.inui/548-830 gi|577145803|gb|EUD69095.1|/1-893 hypothetical protein C922_00787 [Plasmodium inui San Antonio 1]
+-------HHM---N---NAL--------------------------------------NSP--MQ-------
+-YPNPQS----PQLQFNQNTL-NY----GRPVL--TPFNQNNLI--S-------W--RHQQAAQQQVVHQQA
+AQ------------QQLNFNANLRGQMNQMRFYAQGAGNMMNNSMNQNKVNSQLH------PGH--------
+-------QYPNALGQA--TPQQP-------NLNAPGQHNNQPMQQQPGGSQMLNNNMRNMNGRASRNMAGAN
+VGGANMGNIPNQKQLPINMVGKQNSSQSNQMNHQGPPPP-----QQQQTPQQPQQQTQQQTQQKTPQQMQQQ
+VPPNGNFKFT-SQARNRMEMPNKN----------------ANKVNPINNM-----------------NVNFN
+NN-ST--LT----AAA-LASA----PP
